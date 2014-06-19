@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/layout_land_max_width"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="match_parent"
+    android:orientation="vertical"  >
+    
+
+    <TextView android:id="@+id/fragment_schedule_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/fragment_schedule_empty"
+        android:textSize="20sp"
+        android:textColor="@android:color/primary_text_light"
+        android:background="@android:color/background_light" />
+    
+	<ListView
+		android:id="@+id/fragment_schedule_list"
+		android:visibility="gone"                        
+    	style="@style/items_list_view" />
+
+</LinearLayout>

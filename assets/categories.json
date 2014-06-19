@@ -1,0 +1,406 @@
+{
+	"categories":[
+	{
+		"category": "LokTarang",
+		"events":[
+			"Rangshree",
+			"Nritya Manthan"
+		],
+		"contacts":[
+		{
+			"name": "Sumit Gupta",			
+			"mobile": "+919793378159",
+			"email": "sumitntye@gmail.com"
+		},
+		{
+			"name": "Deepika Srivastava",			
+			"mobile": "",
+			"email": "deep.20591@gmail.com"
+		},
+		{
+			"name": "Abhishek Kumar Srivastava",			
+			"mobile": "+919473576630",
+			"email": "abhi.sri1020@gmail.com"
+		},
+		{
+			"name": "Aman Agarwal",			
+			"mobile": "+918005313624",
+			"email": "aman10.agarwal@gmail.com"
+		},
+		{
+			"name": "Niroosha Varatharajah",			
+			"mobile": "",
+			"email": "niroovarathan@yahoo.com"
+		},	
+		{
+			"name": "Shambhavi Manmathrajan",		
+			"mobile": "",
+			"email": "shambavi.man@gmail.com"
+		},
+		{
+			"name": "Prakhar Kant Tiwari",		
+			"mobile": "+917388351955",
+			"email": "prakharpkt@gmail.com"
+		},
+		{
+			"name": "Sathivel Buvanalojinan",			
+			"mobile": "+917388351091",
+			"email": "sathivelbuvan@gmail.com"
+		},
+		{
+			"name": "Payal Verma",			
+			"mobile": "",
+			"email": "prettypayal2010@gmail.com"
+		},
+		{
+			"name": "Valli P.",			
+			"mobile": "+918953581512",
+			"email": "valli.1293@gmail.com"
+		}		
+		]
+	},
+	{
+		"category": "Razzmatazz",
+		"events":[
+			"Rythmratz",
+			"Arangetram",
+			"Pas de Duex",
+			"Gangstagroove"
+		],
+		"contacts":[
+		{
+			"name":"Aditya Agarwal",
+			"mobile":"+918960165499",
+			"email":"aditya30agarwal@gmail.com"
+		},
+		{
+			"name":"Sanjana Dalela",
+			"mobile":"",
+			"email":"sanjanaleo9@gmail.com"
+		},
+		{
+			"name":"Dharamveer Singh",
+			"mobile":"+919410223738",
+			"email":"veer14.mnnit@gmail.com"
+		},
+		{
+			"name":"Sachin Saurav",
+			"mobile":"+918953610167",
+			"email":"sachinsaurav.s.s@gmail.com"
+		},
+		{
+			"name":"Sukanya Chittoria",
+			"mobile":"",
+			"email":"sukanya.chittoria@gmail.com"
+		},
+		{
+			"name":"Trishala Saini",
+			"mobile":"",
+			"email":"trishalasaini93@gmail.com"
+		}
+		]
+	},
+	{
+		"category": "LitMuse",
+		"events":[
+			"War of Words",
+			"Dum Charades",
+			"Just a Minute",
+			"Spell Bee",
+			"The Eng Lit Quiz"
+		],
+		"contacts":[
+		{
+			"name":"Jeffry Issac",
+			"mobile":"+919628078296",
+			"email":"jeffryissac@gmail.com"
+		},
+		{
+			"name":"Shoeb Ansari",
+			"mobile":"+918601624009",
+			"email":""
+		},
+		{
+			"name":"Payal Sachan",
+			"mobile":"",
+			"email":"payalsachan1991@gmail.com"
+		},
+		{
+			"name":"Vivek Sisaudia",
+			"mobile":"+918604264775",
+			"email":"vivek.sisaudia@gmail.com"
+		},
+		{
+			"name":"Ashish Verma",
+			"mobile":"+919616851175",
+			"email":"ashishv762@gmail.com"
+		},
+		{
+			"name":"Akshay Srivastav",
+			"mobile":"+919452070940",
+			"email":"akshayalld@gmail.com"
+		},
+		{
+			"name":"Bulbul Jain",
+			"mobile":"",
+			"email":"bjain21.10@gmail.com"
+		}
+		]
+	},
+	{
+		"category": "NatyaManch",
+		"events":[
+			"Workshop",
+			"Rang Manch",
+			"Nukkad Natak",
+			"Nautanki",
+			"Q-tiyapa",
+			"Chalchitra"
+		],
+		"contacts":[
+		{
+			"name":"Nishant Singh",
+			"mobile":"+919956024845",
+			"email":"zuitter@gmail.com"
+		},
+		{
+			"name":"Ayush Mittal",
+			"mobile":"+917376529227",
+			"email":"ayushmittal29@gmail.com"
+		},
+		{
+			"name":"Harish Yadav",
+			"mobile":"+918400230197",
+			"email":"harishyadavbly@gmail.com"
+		}
+		]
+	},
+	{
+		"category": "RangSaazi",
+		"events":[
+			"Clay Modelling",
+			"Rangoli",
+			"Face Painting",
+			"Scoops",
+			"Card Making",
+			"Scrap Art"
+		],
+		"contacts":[
+		{
+			"name":"Aishwarya Pratap Singh",
+			"mobile":"+919452415326",
+			"email":"s.aishwarya1991@gmail.com"
+		},
+		{
+			"name":"Sonam Gangwar",
+			"mobile":"+918948079107",
+			"email":"kkg.gangwar@gmail.com"
+		},
+		{
+			"name":"Pratibha Pandey",
+			"mobile":"+918896934004",
+			"email":"pratibha183mnnit@gmail.com"
+		}
+		]
+	},
+	{
+		"category": "Anunaad",
+		"events":[
+			"Culrav Anthem",
+			"Rachna",
+			"Rhythm",
+			"Rocktave",
+			"Saath Sur",
+			"Street Studio",
+			"The Voice of Culrav"
+		],
+		"contacts":[
+		{
+			"name": "Divyanshu Srivastav",
+			"mobile": "+919795427422",
+			"email": ""
+		},
+		{
+			"name": "Himanshu Verma",
+			"mobile": "+918005384665",
+			"email": ""
+		},
+		{
+			"name": "Anshul Dixit",
+			"mobile": "+919695199725",
+			"email": ""
+		},
+		{
+			"name": "Shantanu Tandon",
+			"mobile": "+917599333676",
+			"email": ""
+		},
+		{
+			"name": "Swatantra Singh Rajput",
+			"mobile": "+917800674476",
+			"email": ""
+		},
+		{
+			"name": "Sonam Gangwar",
+			"mobile": "+918948079107",
+			"email": ""
+		}
+		]
+	},
+	{
+		"category": "GlamStreet",
+		"events":[
+			"Spandan"
+		],
+		"contacts":[
+		{
+			"name":"Samia Feroze",
+			"mobile":"",
+			"email":"samia.feroze92@gmail.com"
+		},
+		{
+			"name":"Ketan Gupta",
+			"mobile":"+918953107299",
+			"email":"ketangupta.mnnit@gmail.com"
+		},
+		{
+			"name":"Akash Gupta",
+			"mobile":"+919307050276",
+			"email":"nokiax600@gmail.com"
+		},
+		{
+			"name":"Vineet Tomar",
+			"mobile":"+917376335572",
+			"email":"vineet.tomar44@gmail.com"
+		},
+		{
+			"name":"Priya Chaturvedi",
+			"mobile":"",
+			"email":"priyachaturvedi25@gmail.com"
+		},
+		{
+			"name":"Priyanka Basera",
+			"mobile":"",
+			"email":"basera811@gmail.com"
+		},
+		{
+			"name":"Lalit Singh Chauhan",
+			"mobile":"+918127624499",
+			"email":"lalit2chauhan@gmail.com"
+		},
+		{
+			"name":"Almaz Rizvi",
+			"mobile":"+919651234131",
+			"email":"almazrizvi@gmail.com"
+		},
+		{
+			"name":"Sofia Jilani",
+			"mobile":"",
+			"email":"sofiya05jilani@gmail.com"
+		},
+		{
+			"name":"Sabita Giri",
+			"mobile":"+917860759835",
+			"email":"sabita_giri29@yahoo.com"
+		},
+		{
+			"name":"Mankeerat Sana Kkanwar",
+			"mobile":"+918687610190",
+			"email":"mankeerat.kanwar@gmail.com"
+		},
+		{
+			"name":"Renu Singh",
+			"mobile":"",
+			"email":"renusingh.rp@gmail.com"
+		},
+		{
+			"name":"Ankit Raj",
+			"mobile":"+917668650439",
+			"email":"raj.ankit92@gmail.com"
+		}
+		]
+	},
+	{
+		"category": "DarkRoom",
+		"events":[
+			"Selfie",
+			"Streetograph",
+			"Photo Story",
+			"Spirit Fest"
+		],
+		"contacts":[		
+		{
+			"name":"Rinku Sharma",
+			"mobile":"+918090516615",
+			"email":"rinku@culrav.in"
+		}
+		]
+	},
+	{
+		"category": "Srishti",
+		"events":[
+			"Chakravyuh",
+			"Goonj",
+			"Shabd",
+			"Rachana"
+		],
+		"contacts":[
+		{
+			"name":"Jeffry Issac",
+			"mobile":"+919628078296",
+			"email":"jeffryissac@gmail.com"
+		},
+		{
+			"name":"Payal Sachan",
+			"mobile":"",
+			"email":"payalsachan1991@gmail.com"
+		},
+		{
+			"name":"Vivek Sisaudia",
+			"mobile":"+918604264775",
+			"email":"vivek.sisaudia@gmail.com"
+		},
+		{
+			"name":"Ashish Verma",
+			"mobile":"+919616851175",
+			"email":"ashishv762@gmail.com"
+		},
+		{
+			"name":"Akshay Srivastav",
+			"mobile":"+919452070940",
+			"email":"akshayalld@gmail.com"
+		},
+		{
+			"name":"Bulbul Jain",
+			"mobile":"",
+			"email":"bjain21.10@gmail.com"
+		}
+		]
+	},
+	{
+		"category":"Informals",
+		"events":[
+			"Treasure Hunt",
+			"Poker",
+			"Tug of Love"			
+		],
+		"contacts":[		
+		{
+			"name":"Pratik Jha",
+			"mobile":"+918853029235",
+			"email":"prateek.jhaoptimist@gmail.com"
+		},
+		{
+			"name":"Sachin Saurav",
+			"mobile":"+918953610167",
+			"email":"sachinsaurav.ss@gmail.com"
+		},
+		{
+			"name":"Anupam Agarwal",
+			"mobile":"+918574430777",
+			"email":"anupamix@gmail.com"
+		}
+		]
+	}
+	]
+}

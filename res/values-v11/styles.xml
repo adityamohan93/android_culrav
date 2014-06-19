@@ -1,0 +1,44 @@
+<resources>
+
+    <style name="CulravBaseTheme" parent="@style/Theme.AppCompat.Light">
+        <item name="android:actionBarStyle">@style/CulravActionBar</item>
+        <item name="android:splitMotionEvents">false</item>
+    </style>
+        
+
+    <!-- Application theme. -->
+    <style name="CulravTheme" parent="CulravBaseTheme">
+        <item name="android:actionBarStyle">@style/CulravActionBar</item>               
+        <item name="android:actionBarTabStyle">@style/CulravActionBar.TabView</item>           
+        <item name="android:actionBarTabTextStyle">@style/CulravActionBar.TabText</item>
+        <item name="android:actionMenuTextColor">@color/holo_red_light</item>        
+    </style>            
+    
+    <style name="CulravTheme.Map" parent="CulravTheme">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    
+    
+    <!-- Action Bar -->
+    <style name="CulravActionBar" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">@drawable/actionbar_background_noshadow</item>
+        <item name="background">@drawable/actionbar_background_noshadow</item>
+        <item name="android:titleTextStyle">@style/CulravActionBar.TitleText</item>
+        <item name="titleTextStyle">@style/CulravActionBar.TitleText</item>
+    </style>
+    
+    <style name="CulravActionBar.TitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/holo_red_dark</item>        
+    </style>        
+        
+    <style name="CulravActionBar.TabText" parent="@style/Widget.AppCompat.ActionBar.TabText">
+        <item name="android:textColor">@color/holo_red_light</item>
+    </style>
+    
+    <style name="CulravActionBar.TabView" parent="@style/Widget.AppCompat.ActionBar.TabView">
+        <item name="background">@drawable/red_tab_indicator_holo</item>        
+        <item name="android:background">@drawable/red_tab_indicator_holo</item>
+	</style>                  
+        
+</resources>

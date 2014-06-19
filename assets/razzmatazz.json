@@ -1,0 +1,66 @@
+{
+	"Razzmatazz":[
+	{
+		"eventID": "0201",
+		"event": "Rythmratz",
+		"description": "Rythmratz, the group dance event, features some of the most explosive dance talent competing together in one of the most witnessed event at Culrav. So all those teams out there waiting to be the best - it's time to grace the stage with your rage!",
+		"rules": [
+			"1. Team limit: min: 5, max: 15",
+			"2. Minimum 4 members should be on stage during the performance",
+			"3. Participants must bring their own music in a pen drive",
+			"4. There will be two rounds",
+			"4.1 Main round: Time duration is 8-11 minutes",
+			"4.2 Theme round: This round will be held just after the main round for all the teams are over. A theme will be given which should be depicted through dance by the team. Theme will be conveyed a few days before the actual day of the event. Duration is 4-6 minutes."
+		],
+		"judging": [
+			"Main round: Synchronization, choreography, expressions, energy level, stage utilization, costumes, overall impact, innovation and presentation",
+			"Theme round: Depiction of theme and the judging criteria of Main Round"
+		]
+	},
+	{
+		"eventID": "0202",
+		"event": "Arangetram",
+		"description": "Don't be 'one in a million' - be 'someone'. Arangetram, the solo dance event, gives you a chance to showcase your individuality. So draw in a breath, kick off your shoes, and dance.",
+		"rules": [
+			"1. Participants must bring their own music in a pen drive",
+			"2. There will be two rounds",
+			"2.1 1st round: Time duration is 3-4 minutes",
+			"2.2 2nd round: It will be a Face-Off round. Two randomly chosen participants perform on the stage, alternately, on the same piece of music, which will be given on the spot a few minutes before the face-off."
+		],
+		"judging": [
+			"1st round: Choreography, expressions, energy level, stage utilization, costumes and props, innovation, overall impact",
+			"2nd round: Aptness of the performance based on the music played, innovation, presentation, energy level, overall impact and overshadowing the opponent"
+		]
+	},
+	{
+		"eventID": "0203",
+		"event": "Pas de Duex",
+		"description": "Pas de Deux is a duet dance competition wherein any two individuals can pair up (irrespective of their gender) and dance to the rhythm of the beats. Nachh Baliye!",
+		"rules": [
+			"1. It is a pair dance event. Any two individuals can pair up(irrespective of their gender).",
+			"2. There will be only one round",
+			"3. Each team will be a given a time of 4-6 minutes to perform on their own piece of music",
+			"4. Participants must bring their own music in a pen drive"
+		],
+		"judging": [
+			"Synchronization, choreography, expressions, energy level, costumes and props, innovation, presentation and overall impact"
+		]
+	},
+	{
+		"eventID": "0204",
+		"event": "Gangstagroove",
+		"description": "Gangstagroove is a street dance competition and will be held out in open, unbounded by any limits. So, all you gangs out there, it's time to throw down your guns and beat the ground. Gangstagroove brings you out in the streets this Culrav for the ultimate showdown. Let the battle begin!",
+		"rules": [
+			"1. Team size: min: 5, max: 15",
+			"2. There will be two rounds",
+			"2.1 1st round: Time duration is 4-5 minutes. Teams will prepare their own performance. Participants must bring their own music in a pen drive. Hindi Bollywood songs are strongly discouraged.",
+			"2.2 2nd round: It will be a Crew-on-Crew battle. A group of song tracks (1 min duration) will be given a few days before the main event. During the battle a random song from the given set will be played. One team will start the performance. Another half of the same song will be performed by the opposite team. The same will be repeated for another song from the given set. At least one team member must occupy the arena during the performance of respective teams."
+		],
+		"judging": [
+			"1st round: Synchronization, choreography, attitude, energy level, presentation, innovation and overall impact on the crowd",
+			"2nd round: The judging criteria of 1st round, including crowd support and most of all overshadowing the opposite team",
+			"Division of a team's performance time amongst all team members is expected in both rounds"
+		]
+	}
+	]	
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CulravEventLayout" >
+    
+    <TextView
+        android:id="@+id/event_anunaad_header"
+        style="@style/Culrav.Event.Header"
+        android:background="@color/holo_orange_light" />
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbarStyle="outsideOverlay" >
+        
+        <LinearLayout
+            style="@style/CulravEventScroller" >
+            
+            <TextView
+        		android:id="@+id/event_anunaad_description"
+        		style="@style/Culrav.Event.Text" />
+            
+            <TextView                
+                style="@style/Culrav.Event.Section"
+                android:text="@string/event_format"
+                android:textColor="@color/holo_orange_light" />
+            
+            <TextView
+                style="@style/Culrav.Event.Section.Divider"
+                android:background="@color/holo_orange_light" />
+            
+            <TextView
+                android:id="@+id/event_anunaad_format_description"
+                style="@style/Culrav.Event.Text" />
+            
+            <TextView                
+                style="@style/Culrav.Event.Section"
+                android:text="@string/event_rules"
+                android:textColor="@color/holo_orange_light" />
+            
+            <TextView                
+                style="@style/Culrav.Event.Section.Divider"
+                android:background="@color/holo_orange_light" />
+            
+            <TextView
+                android:id="@+id/event_anunaad_rules_description"
+                style="@style/Culrav.Event.Text" />
+		</LinearLayout>
+	</ScrollView>                      
+</LinearLayout>

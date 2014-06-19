@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CulravEventLayout" >
+    
+    <TextView
+        android:id="@+id/event_razzmatazz_header"
+        style="@style/Culrav.Event.Header"
+        android:background="@android:color/black" />
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbarStyle="outsideOverlay" >
+        
+        <LinearLayout
+            style="@style/CulravEventScroller" >
+            
+            <TextView
+        		android:id="@+id/event_razzmatazz_description"
+        		style="@style/Culrav.Event.Text" />
+            
+            <TextView                
+                style="@style/Culrav.Event.Section"
+                android:text="@string/event_rules"                
+                android:textColor="@android:color/black" />
+            
+            <TextView                
+                style="@style/Culrav.Event.Section.Divider"
+                android:background="@android:color/black" />
+            
+            <TextView
+                android:id="@+id/event_razzmatazz_rules_description"
+                style="@style/Culrav.Event.Text" />
+            
+            <TextView                
+                style="@style/Culrav.Event.Section"
+                android:text="@string/event_judging"
+                android:textColor="@android:color/black" />
+            
+            <TextView               
+                style="@style/Culrav.Event.Section.Divider"
+                android:background="@android:color/black" />
+            
+            <TextView
+                android:id="@+id/event_razzmatazz_judging_description"
+                style="@style/Culrav.Event.Text" />
+		</LinearLayout>
+	</ScrollView>                      
+</LinearLayout>

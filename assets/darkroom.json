@@ -1,0 +1,54 @@
+{
+	"DarkRoom":[
+	{
+		"eventID": "0801",
+		"event": "Selfie",		
+		"description": "'Occasional selfies are acceptable, but posting a new picture of yourself every day isn’t necessary'
+
+		Named as 2013's word of the year by Oxford Dictionaries, a 'SELFIE' is a type of self-portrait photograph, typically taken with a hand-held digital camera or camera phone. Selfies are often associated with social networking that today's youth enjoy surfing the most. They are often casual, are typically taken either with a camera held at arm's length or in a mirror.",
+		"format": "It is an online event for both boys and girls. Participants have to email us their selfie at fotoroom.culrav@gmail.com, which we will post on our facebook page. Top ten liked selfies(5 Girls, 5 Boys) will be considered for final judgement.",
+		"rules": [
+			"1. Selfie should be like a selfie as per the definition above.",
+			"2. Each participant has to email us only one entry. In case more than one entry is noticed, we will consider the prior.",
+			"3. No post production is allowed, except for color correction. You may use camera filters."
+		]
+	},
+	{
+		"eventID": "0802",
+		"event": "Streetograph",		
+		"description": "Streetograph is an event related to Street photography. Street photography features the human condition within public places and does not necessitate the presence of a street or even the urban environment. The subject of the photograph might be absent of people and can be object or environment where the image projects a decidedly human character in facsimile or aesthetic. The origin of the term 'Street' refers to a time rather than a place.",
+		"format": "Streetograph is an online event. For 10 days before the fest, every day we will give you a theme. Based on the theme, you have to email us your click at fotoroom.culrav@gmail.com. These photos will also be uploaded on our facebook page. Results will be judged by professionals of the field.",
+		"rules": [
+			"1. Clicks should adhere to the theme",
+			"2. Photograph should be original work of the participant",
+			"3. Composition of photograph matters a lot",
+			"4. You are allowed to do colour correction, and finer adjustments",
+			"5. Removal of elements from the photograph is not allowed",
+			"6. You have to mail us original and edited work."
+		]
+	},
+	{
+		"eventID": "0803",
+		"event": "Photo Story",		
+		"description": "'Story telling through photography.'
+
+		A photo story is a group of photographs that conveys a unified and compelling story.",
+		"format": "In this event participants has to email us few photographs, which tells a story related to any topic of their interest.",
+		"rules": [
+			"1. Photo story should include minimum five and maximum seven photographs",
+			"2. Photographs should be properly composed",
+			"3. Finer adjustments could be done",
+			"4. Photo story should be based on a strong idea"
+		]
+	},
+	{
+		"eventID": "0804",
+		"event": "Spirit Fest",		
+		"description": "Spiritfest gives you a chance to showcase your skills of event photography. In this event we will give you a theme, and ask you to click during the fest. You have to register for the event before the festival. Be prepared.",
+		"format": "",
+		"rules": [
+			""
+		]
+	}
+	]
+}

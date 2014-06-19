@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Culrav 2k14</string>    
+    <string name="title_activity_map">MNNIT Map</string>
+    <string name="title_activity_nites">Nites</string>
+    <string name="title_activity_contacts">Team Culrav</string>    
+    <string name="title_activity_stream_message">Stream</string>
+
+    <!-- Viewpager Fragments Titles -->
+    <string name="fragment_explore">Explore</string>
+    <string name="fragment_nites">Nites</string>
+    <string name="fragment_schedule">Schedule</string>
+    <string name="fragment_stream">Stream</string>
+
+    <string-array name="title_tabs">
+        <item>@string/fragment_stream</item>
+        <item>@string/fragment_explore</item>
+        <item>@string/fragment_nites</item>
+        <item>@string/fragment_schedule</item>
+    </string-array>
+
+    <!-- New Drawer Menu Items -->
+    <string-array name="nav_drawer_titles">
+        <item>Home</item>
+        <item>Website</item>
+        <item>Facebook</item>
+        <item>Map</item>
+        <item>Team Culrav</item>        
+        <item>About</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_drawer_home</item>
+        <item>@drawable/ic_drawer_web</item>
+        <item>@drawable/ic_drawer_fb</item>
+        <item>@drawable/ic_drawer_map</item>
+        <item>@drawable/ic_drawer_contacts</item>        
+        <item>@drawable/ic_drawer_about</item>
+    </array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="dummy">dummy</string>    
+    
+    <!-- Nites -->
+    <string name="nite_title_kavya_sandhya">Kavya Sandhya</string>
+    <string name="nite_title_farhan">Farhan Live</string>
+    <string name="nite_farhan_desc">APRIL 05\nMNNIT Football Ground\nHe will be there!\nWhere will you be?</string>
+    <string name="nite_kavya_desc">APRIL 03\nRG MP Hall\nAn evening of poetic resplendence with the most stupendous \'Kavis\' of our times\n\n
+        Munawwar Rana - An urdu poet known for his Awadi and Hindi wordings in the couplets.\n\n
+        Ashok Chakradhar - Padma Shri laureate prminenet for his satirical poetry.\n\n
+        Dr Sarita Sharma - A renowned hindi poet who has delivered enthralling performance.\n\n</string>    
+    
+    <!-- Empty Pages -->
+    <string name="fragment_schedule_empty">Culrav 2k14\n3rd - 8th April</string>
+    <string name="fragment_stream_empty">Watchout for updates&#8230;</string>    
+
+    <!-- Map Activity Action Bar Items -->
+    <string name="map_action_hybrid">Geo View</string>
+    <string name="map_action_geo">Normal View</string>
+    <string name="map_action_gps">Turn GPS On/Off</string>
+    <string name="home_action_bgdata">Turn On Backgnd Data</string>
+
+    <!-- Explore List Icons -->
+    <array name="explore_list_icons">
+        <item>@drawable/ic_event_loktarang</item>
+        <item>@drawable/ic_event_razzmatazz</item>
+        <item>@drawable/ic_event_litmuse</item>
+        <item>@drawable/ic_event_natyamanch</item>
+        <item>@drawable/ic_event_rangraaze</item>
+        <item>@drawable/ic_event_anunaad</item>
+        <item>@drawable/ic_event_glamstreet</item>
+        <item>@drawable/ic_event_darkroom</item>
+        <item>@drawable/ic_event_srishti</item>   
+        <item>@drawable/ic_event_informals</item>     
+    </array>
+        
+    <string name="title_activity_explore_events">Events</string>
+
+    <!-- Events Headers -->
+    <string name="event_format">FORMAT</string>
+    <string name="event_rules">RULES</string>
+    <string name="event_judging">JUDGING</string>
+    <string name="event_fb">Facebook Page</string>
+    <string name="event_rounds">ROUNDS</string>    
+
+    <string name="stream_link">Open Link</string>
+    <!-- About -->
+    <string name="about_presented_by">Androided by</string>
+    <string name="about_person_1">Arpit Jaiswal</string>
+    <string name="about_person_2">Aditya Mohan</string>
+    
+    <!-- GCM -->
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>    
+    <string name="gcm_registered">You are now subscribed to Culrav notifications.</string>
+    <string name="gcm_unregistered">You have been unsubscribed from Culrav notification.</string>        
+    <string name="gcm_deleted">Culrav server: server deleted %1$d pending messages.</string>        
+    <string name="got_last_location">Got last location. Latitude : %1$s Longitude : %2$s</string>
+    <string name="gcm_unsupported">We are unable to send updates to you. This device does not support Google Play Services.</string>
+    <string name="gcm_unsupported_cntd">Install Google Play Services to get updates.</string>
+    
+    
+    <!-- DB Reset -->
+    <string name="streamReset">Streaming messages have been removed to apply some changes. New updates will be notified soon.</string>
+    <string name="scheduleReset">Schedule has been reset to apply some changes. New schedule will be delivered soon.</string>        
+
+</resources>

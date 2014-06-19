@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CulravEventLayout" >
+    
+    <TextView
+        android:id="@+id/event_loktarang_header"
+        style="@style/Culrav.Event.Header"
+        android:background="@color/holo_green_light" />
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbarStyle="outsideOverlay" >
+        
+        <LinearLayout
+            style="@style/CulravEventScroller" >
+            
+            <TextView
+        		android:id="@+id/event_loktarang_description"
+        		style="@style/Culrav.Event.Text" />
+            
+            <TextView               
+                style="@style/Culrav.Event.Section"
+                android:text="@string/event_format"                
+                android:textColor="@color/holo_green_light" />
+            
+            <TextView                
+                style="@style/Culrav.Event.Section.Divider"
+                android:background="@color/holo_green_light" />
+            
+            <TextView
+                android:id="@+id/event_loktarang_format_description"
+                style="@style/Culrav.Event.Text" />
+            
+            <TextView
+                android:id="@+id/event_loktarang_header_judging"
+                style="@style/Culrav.Event.Section"
+                android:text="@string/event_judging"     
+                android:textColor="@color/holo_green_light" />
+            
+            <TextView
+                android:id="@+id/event_loktarang_header_judging_underline"
+                style="@style/Culrav.Event.Section.Divider"
+                android:background="@color/holo_green_light" />
+            
+            <TextView
+                android:id="@+id/event_loktarang_judging_description"
+                style="@style/Culrav.Event.Text" />
+		</LinearLayout>
+	</ScrollView>                      
+</LinearLayout>

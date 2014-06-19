@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/frag_explore_list"
+	android:layout_width="@dimen/layout_land_max_width"
+    android:layout_gravity="center_horizontal"
+	android:layout_height="wrap_content"
+	style="@style/items_list_view" />
+

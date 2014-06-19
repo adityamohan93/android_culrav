@@ -1,0 +1,2203 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment: Fragment()
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity: FragmentActivity()
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip: PagerTabStrip(android.content.Context)
+android.support.v4.view.PagerTabStrip: PagerTabStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context)
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager: ViewPager(android.content.Context)
+android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context)
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet,int)
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.app.ActionBarActivity: ActionBarActivity()
+android.support.v7.app.ActionBarActivity: void setContentView(android.view.View)
+android.support.v7.appcompat.R$anim: int abc_fade_in
+android.support.v7.appcompat.R$anim: int abc_fade_out
+android.support.v7.appcompat.R$anim: int abc_slide_in_bottom
+android.support.v7.appcompat.R$anim: int abc_slide_in_top
+android.support.v7.appcompat.R$anim: int abc_slide_out_bottom
+android.support.v7.appcompat.R$anim: int abc_slide_out_top
+android.support.v7.appcompat.R$attr: int actionBarDivider
+android.support.v7.appcompat.R$attr: int actionBarItemBackground
+android.support.v7.appcompat.R$attr: int actionBarSize
+android.support.v7.appcompat.R$attr: int actionBarSplitStyle
+android.support.v7.appcompat.R$attr: int actionBarStyle
+android.support.v7.appcompat.R$attr: int actionBarTabBarStyle
+android.support.v7.appcompat.R$attr: int actionBarTabStyle
+android.support.v7.appcompat.R$attr: int actionBarTabTextStyle
+android.support.v7.appcompat.R$attr: int actionBarWidgetTheme
+android.support.v7.appcompat.R$attr: int actionButtonStyle
+android.support.v7.appcompat.R$attr: int actionDropDownStyle
+android.support.v7.appcompat.R$attr: int actionLayout
+android.support.v7.appcompat.R$attr: int actionMenuTextAppearance
+android.support.v7.appcompat.R$attr: int actionMenuTextColor
+android.support.v7.appcompat.R$attr: int actionModeBackground
+android.support.v7.appcompat.R$attr: int actionModeCloseButtonStyle
+android.support.v7.appcompat.R$attr: int actionModeCloseDrawable
+android.support.v7.appcompat.R$attr: int actionModeCopyDrawable
+android.support.v7.appcompat.R$attr: int actionModeCutDrawable
+android.support.v7.appcompat.R$attr: int actionModeFindDrawable
+android.support.v7.appcompat.R$attr: int actionModePasteDrawable
+android.support.v7.appcompat.R$attr: int actionModePopupWindowStyle
+android.support.v7.appcompat.R$attr: int actionModeSelectAllDrawable
+android.support.v7.appcompat.R$attr: int actionModeShareDrawable
+android.support.v7.appcompat.R$attr: int actionModeSplitBackground
+android.support.v7.appcompat.R$attr: int actionModeStyle
+android.support.v7.appcompat.R$attr: int actionModeWebSearchDrawable
+android.support.v7.appcompat.R$attr: int actionOverflowButtonStyle
+android.support.v7.appcompat.R$attr: int actionProviderClass
+android.support.v7.appcompat.R$attr: int actionViewClass
+android.support.v7.appcompat.R$attr: int activityChooserViewStyle
+android.support.v7.appcompat.R$attr: int background
+android.support.v7.appcompat.R$attr: int backgroundSplit
+android.support.v7.appcompat.R$attr: int backgroundStacked
+android.support.v7.appcompat.R$attr: int buttonBarButtonStyle
+android.support.v7.appcompat.R$attr: int buttonBarStyle
+android.support.v7.appcompat.R$attr: int customNavigationLayout
+android.support.v7.appcompat.R$attr: int disableChildrenWhenDisabled
+android.support.v7.appcompat.R$attr: int displayOptions
+android.support.v7.appcompat.R$attr: int divider
+android.support.v7.appcompat.R$attr: int dividerHorizontal
+android.support.v7.appcompat.R$attr: int dividerPadding
+android.support.v7.appcompat.R$attr: int dividerVertical
+android.support.v7.appcompat.R$attr: int dropDownListViewStyle
+android.support.v7.appcompat.R$attr: int dropdownListPreferredItemHeight
+android.support.v7.appcompat.R$attr: int expandActivityOverflowButtonDrawable
+android.support.v7.appcompat.R$attr: int height
+android.support.v7.appcompat.R$attr: int homeAsUpIndicator
+android.support.v7.appcompat.R$attr: int homeLayout
+android.support.v7.appcompat.R$attr: int icon
+android.support.v7.appcompat.R$attr: int iconifiedByDefault
+android.support.v7.appcompat.R$attr: int indeterminateProgressStyle
+android.support.v7.appcompat.R$attr: int initialActivityCount
+android.support.v7.appcompat.R$attr: int isLightTheme
+android.support.v7.appcompat.R$attr: int itemPadding
+android.support.v7.appcompat.R$attr: int listChoiceBackgroundIndicator
+android.support.v7.appcompat.R$attr: int listPopupWindowStyle
+android.support.v7.appcompat.R$attr: int listPreferredItemHeight
+android.support.v7.appcompat.R$attr: int listPreferredItemHeightLarge
+android.support.v7.appcompat.R$attr: int listPreferredItemHeightSmall
+android.support.v7.appcompat.R$attr: int listPreferredItemPaddingLeft
+android.support.v7.appcompat.R$attr: int listPreferredItemPaddingRight
+android.support.v7.appcompat.R$attr: int logo
+android.support.v7.appcompat.R$attr: int navigationMode
+android.support.v7.appcompat.R$attr: int paddingEnd
+android.support.v7.appcompat.R$attr: int paddingStart
+android.support.v7.appcompat.R$attr: int panelMenuListTheme
+android.support.v7.appcompat.R$attr: int panelMenuListWidth
+android.support.v7.appcompat.R$attr: int popupMenuStyle
+android.support.v7.appcompat.R$attr: int popupPromptView
+android.support.v7.appcompat.R$attr: int progressBarPadding
+android.support.v7.appcompat.R$attr: int progressBarStyle
+android.support.v7.appcompat.R$attr: int prompt
+android.support.v7.appcompat.R$attr: int queryHint
+android.support.v7.appcompat.R$attr: int searchDropdownBackground
+android.support.v7.appcompat.R$attr: int searchResultListItemHeight
+android.support.v7.appcompat.R$attr: int searchViewAutoCompleteTextView
+android.support.v7.appcompat.R$attr: int searchViewCloseIcon
+android.support.v7.appcompat.R$attr: int searchViewEditQuery
+android.support.v7.appcompat.R$attr: int searchViewEditQueryBackground
+android.support.v7.appcompat.R$attr: int searchViewGoIcon
+android.support.v7.appcompat.R$attr: int searchViewSearchIcon
+android.support.v7.appcompat.R$attr: int searchViewTextField
+android.support.v7.appcompat.R$attr: int searchViewTextFieldRight
+android.support.v7.appcompat.R$attr: int searchViewVoiceIcon
+android.support.v7.appcompat.R$attr: int selectableItemBackground
+android.support.v7.appcompat.R$attr: int showAsAction
+android.support.v7.appcompat.R$attr: int showDividers
+android.support.v7.appcompat.R$attr: int spinnerDropDownItemStyle
+android.support.v7.appcompat.R$attr: int spinnerMode
+android.support.v7.appcompat.R$attr: int spinnerStyle
+android.support.v7.appcompat.R$attr: int subtitle
+android.support.v7.appcompat.R$attr: int subtitleTextStyle
+android.support.v7.appcompat.R$attr: int textAllCaps
+android.support.v7.appcompat.R$attr: int textAppearanceLargePopupMenu
+android.support.v7.appcompat.R$attr: int textAppearanceListItem
+android.support.v7.appcompat.R$attr: int textAppearanceListItemSmall
+android.support.v7.appcompat.R$attr: int textAppearanceSearchResultSubtitle
+android.support.v7.appcompat.R$attr: int textAppearanceSearchResultTitle
+android.support.v7.appcompat.R$attr: int textAppearanceSmallPopupMenu
+android.support.v7.appcompat.R$attr: int textColorSearchUrl
+android.support.v7.appcompat.R$attr: int title
+android.support.v7.appcompat.R$attr: int titleTextStyle
+android.support.v7.appcompat.R$attr: int windowActionBar
+android.support.v7.appcompat.R$attr: int windowActionBarOverlay
+android.support.v7.appcompat.R$attr: int windowSplitActionBar
+android.support.v7.appcompat.R$bool: int abc_action_bar_embed_tabs_pre_jb
+android.support.v7.appcompat.R$bool: int abc_action_bar_expanded_action_views_exclusive
+android.support.v7.appcompat.R$bool: int abc_config_actionMenuItemAllCaps
+android.support.v7.appcompat.R$bool: int abc_config_allowActionMenuItemTextWithIcon
+android.support.v7.appcompat.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
+android.support.v7.appcompat.R$bool: int abc_split_action_bar_is_narrow
+android.support.v7.appcompat.R$color: int abc_search_url_text_holo
+android.support.v7.appcompat.R$color: int abc_search_url_text_normal
+android.support.v7.appcompat.R$color: int abc_search_url_text_pressed
+android.support.v7.appcompat.R$color: int abc_search_url_text_selected
+android.support.v7.appcompat.R$dimen: int abc_action_bar_default_height
+android.support.v7.appcompat.R$dimen: int abc_action_bar_icon_vertical_padding
+android.support.v7.appcompat.R$dimen: int abc_action_bar_progress_bar_size
+android.support.v7.appcompat.R$dimen: int abc_action_bar_stacked_max_height
+android.support.v7.appcompat.R$dimen: int abc_action_bar_stacked_tab_max_width
+android.support.v7.appcompat.R$dimen: int abc_action_bar_subtitle_bottom_margin
+android.support.v7.appcompat.R$dimen: int abc_action_bar_subtitle_text_size
+android.support.v7.appcompat.R$dimen: int abc_action_bar_subtitle_top_margin
+android.support.v7.appcompat.R$dimen: int abc_action_bar_title_text_size
+android.support.v7.appcompat.R$dimen: int abc_action_button_min_width
+android.support.v7.appcompat.R$dimen: int abc_config_prefDialogWidth
+android.support.v7.appcompat.R$dimen: int abc_dropdownitem_icon_width
+android.support.v7.appcompat.R$dimen: int abc_dropdownitem_text_padding_left
+android.support.v7.appcompat.R$dimen: int abc_dropdownitem_text_padding_right
+android.support.v7.appcompat.R$dimen: int abc_panel_menu_list_width
+android.support.v7.appcompat.R$dimen: int abc_search_view_preferred_width
+android.support.v7.appcompat.R$dimen: int abc_search_view_text_min_width
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_solid_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_solid_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_transparent_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_transparent_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_share_pack_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ab_share_pack_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ab_solid_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_solid_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_solid_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_solid_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_transparent_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_transparent_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_transparent_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_transparent_light_holo
+android.support.v7.appcompat.R$drawable: int abc_cab_background_bottom_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_cab_background_bottom_holo_light
+android.support.v7.appcompat.R$drawable: int abc_cab_background_top_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_cab_background_top_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_ab_back_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_ab_back_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_cab_done_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_cab_done_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_clear
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_disabled
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_normal
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_search_api_disabled_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_commit_search_api_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_commit_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_go
+android.support.v7.appcompat.R$drawable: int abc_ic_go_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_share_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_share_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_search
+android.support.v7.appcompat.R$drawable: int abc_ic_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_voice_search
+android.support.v7.appcompat.R$drawable: int abc_ic_voice_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_item_background_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_item_background_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_divider_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_divider_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_focused_holo
+android.support.v7.appcompat.R$drawable: int abc_list_longpressed_holo
+android.support.v7.appcompat.R$drawable: int abc_list_pressed_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_pressed_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_selector_background_transition_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_selector_background_transition_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_selector_disabled_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_selector_disabled_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_selector_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_selector_holo_light
+android.support.v7.appcompat.R$drawable: int abc_menu_dropdown_panel_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_menu_dropdown_panel_holo_light
+android.support.v7.appcompat.R$drawable: int abc_menu_hardkey_panel_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_menu_hardkey_panel_holo_light
+android.support.v7.appcompat.R$drawable: int abc_search_dropdown_dark
+android.support.v7.appcompat.R$drawable: int abc_search_dropdown_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_default_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_default_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_disabled_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_disabled_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_focused_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_focused_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_pressed_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_pressed_holo_light
+android.support.v7.appcompat.R$drawable: int abc_tab_indicator_ab_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_selected_focused_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_selected_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_selected_pressed_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_unselected_pressed_holo
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_default_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_default_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_default_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_default_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_selected_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_selected_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_selected_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_selected_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_right_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_right_holo_light
+android.support.v7.appcompat.R$id: int action_bar
+android.support.v7.appcompat.R$id: int action_bar_activity_content
+android.support.v7.appcompat.R$id: int action_bar_container
+android.support.v7.appcompat.R$id: int action_bar_overlay_layout
+android.support.v7.appcompat.R$id: int action_bar_root
+android.support.v7.appcompat.R$id: int action_bar_subtitle
+android.support.v7.appcompat.R$id: int action_bar_title
+android.support.v7.appcompat.R$id: int action_context_bar
+android.support.v7.appcompat.R$id: int action_menu_divider
+android.support.v7.appcompat.R$id: int action_menu_presenter
+android.support.v7.appcompat.R$id: int action_mode_close_button
+android.support.v7.appcompat.R$id: int activity_chooser_view_content
+android.support.v7.appcompat.R$id: int always
+android.support.v7.appcompat.R$id: int beginning
+android.support.v7.appcompat.R$id: int checkbox
+android.support.v7.appcompat.R$id: int collapseActionView
+android.support.v7.appcompat.R$id: int default_activity_button
+android.support.v7.appcompat.R$id: int dialog
+android.support.v7.appcompat.R$id: int disableHome
+android.support.v7.appcompat.R$id: int dropdown
+android.support.v7.appcompat.R$id: int edit_query
+android.support.v7.appcompat.R$id: int end
+android.support.v7.appcompat.R$id: int expand_activities_button
+android.support.v7.appcompat.R$id: int expanded_menu
+android.support.v7.appcompat.R$id: int home
+android.support.v7.appcompat.R$id: int homeAsUp
+android.support.v7.appcompat.R$id: int icon
+android.support.v7.appcompat.R$id: int ifRoom
+android.support.v7.appcompat.R$id: int image
+android.support.v7.appcompat.R$id: int listMode
+android.support.v7.appcompat.R$id: int list_item
+android.support.v7.appcompat.R$id: int middle
+android.support.v7.appcompat.R$id: int never
+android.support.v7.appcompat.R$id: int none
+android.support.v7.appcompat.R$id: int normal
+android.support.v7.appcompat.R$id: int progress_circular
+android.support.v7.appcompat.R$id: int progress_horizontal
+android.support.v7.appcompat.R$id: int radio
+android.support.v7.appcompat.R$id: int search_badge
+android.support.v7.appcompat.R$id: int search_bar
+android.support.v7.appcompat.R$id: int search_button
+android.support.v7.appcompat.R$id: int search_close_btn
+android.support.v7.appcompat.R$id: int search_edit_frame
+android.support.v7.appcompat.R$id: int search_go_btn
+android.support.v7.appcompat.R$id: int search_mag_icon
+android.support.v7.appcompat.R$id: int search_plate
+android.support.v7.appcompat.R$id: int search_src_text
+android.support.v7.appcompat.R$id: int search_voice_btn
+android.support.v7.appcompat.R$id: int shortcut
+android.support.v7.appcompat.R$id: int showCustom
+android.support.v7.appcompat.R$id: int showHome
+android.support.v7.appcompat.R$id: int showTitle
+android.support.v7.appcompat.R$id: int split_action_bar
+android.support.v7.appcompat.R$id: int submit_area
+android.support.v7.appcompat.R$id: int tabMode
+android.support.v7.appcompat.R$id: int title
+android.support.v7.appcompat.R$id: int top_action_bar
+android.support.v7.appcompat.R$id: int up
+android.support.v7.appcompat.R$id: int useLogo
+android.support.v7.appcompat.R$id: int withText
+android.support.v7.appcompat.R$integer: int abc_max_action_buttons
+android.support.v7.appcompat.R$layout: int abc_action_bar_decor
+android.support.v7.appcompat.R$layout: int abc_action_bar_decor_include
+android.support.v7.appcompat.R$layout: int abc_action_bar_decor_overlay
+android.support.v7.appcompat.R$layout: int abc_action_bar_home
+android.support.v7.appcompat.R$layout: int abc_action_bar_tab
+android.support.v7.appcompat.R$layout: int abc_action_bar_tabbar
+android.support.v7.appcompat.R$layout: int abc_action_bar_title_item
+android.support.v7.appcompat.R$layout: int abc_action_bar_view_list_nav_layout
+android.support.v7.appcompat.R$layout: int abc_action_menu_item_layout
+android.support.v7.appcompat.R$layout: int abc_action_menu_layout
+android.support.v7.appcompat.R$layout: int abc_action_mode_bar
+android.support.v7.appcompat.R$layout: int abc_action_mode_close_item
+android.support.v7.appcompat.R$layout: int abc_activity_chooser_view
+android.support.v7.appcompat.R$layout: int abc_activity_chooser_view_include
+android.support.v7.appcompat.R$layout: int abc_activity_chooser_view_list_item
+android.support.v7.appcompat.R$layout: int abc_expanded_menu_layout
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_checkbox
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_icon
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_layout
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_radio
+android.support.v7.appcompat.R$layout: int abc_popup_menu_item_layout
+android.support.v7.appcompat.R$layout: int abc_search_dropdown_item_icons_2line
+android.support.v7.appcompat.R$layout: int abc_search_view
+android.support.v7.appcompat.R$layout: int support_simple_spinner_dropdown_item
+android.support.v7.appcompat.R$string: int abc_action_bar_home_description
+android.support.v7.appcompat.R$string: int abc_action_bar_up_description
+android.support.v7.appcompat.R$string: int abc_action_menu_overflow_description
+android.support.v7.appcompat.R$string: int abc_action_mode_done
+android.support.v7.appcompat.R$string: int abc_activity_chooser_view_see_all
+android.support.v7.appcompat.R$string: int abc_activitychooserview_choose_application
+android.support.v7.appcompat.R$string: int abc_searchview_description_clear
+android.support.v7.appcompat.R$string: int abc_searchview_description_query
+android.support.v7.appcompat.R$string: int abc_searchview_description_search
+android.support.v7.appcompat.R$string: int abc_searchview_description_submit
+android.support.v7.appcompat.R$string: int abc_searchview_description_voice
+android.support.v7.appcompat.R$string: int abc_shareactionprovider_share_with
+android.support.v7.appcompat.R$string: int abc_shareactionprovider_share_with_application
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_CompactMenu_Dialog
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_SearchResult
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Menu
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Menu
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_DropDownItem
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_DropDownItem
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item
+android.support.v7.appcompat.R$style: int TextAppearance_Widget_AppCompat_ExpandedMenu_Item
+android.support.v7.appcompat.R$style: int Theme_AppCompat
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Base_CompactMenu
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Base_CompactMenu_Dialog
+android.support.v7.appcompat.R$style: int Theme_AppCompat_CompactMenu
+android.support.v7.appcompat.R$style: int Theme_AppCompat_CompactMenu_Dialog
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Light
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Light_DarkActionBar
+android.support.v7.appcompat.R$style: int Theme_Base
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light_DarkActionBar
+android.support.v7.appcompat.R$style: int Theme_Base_Light
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ListView_Menu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ProgressBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ProgressBar_Horizontal
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_Solid_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabBar_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabText_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabView_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionMode_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionMode_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Spinner_DropDown_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ListView_Menu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ProgressBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ProgressBar_Horizontal
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Spinner_DropDown_ActionBar
+android.support.v7.appcompat.R$styleable: int[] ActionBar
+android.support.v7.appcompat.R$styleable: int[] ActionBarLayout
+android.support.v7.appcompat.R$styleable: int ActionBarLayout_android_layout_gravity
+android.support.v7.appcompat.R$styleable: int[] ActionBarWindow
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowActionBar
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowActionBarOverlay
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowSplitActionBar
+android.support.v7.appcompat.R$styleable: int ActionBar_background
+android.support.v7.appcompat.R$styleable: int ActionBar_backgroundSplit
+android.support.v7.appcompat.R$styleable: int ActionBar_backgroundStacked
+android.support.v7.appcompat.R$styleable: int ActionBar_customNavigationLayout
+android.support.v7.appcompat.R$styleable: int ActionBar_displayOptions
+android.support.v7.appcompat.R$styleable: int ActionBar_divider
+android.support.v7.appcompat.R$styleable: int ActionBar_height
+android.support.v7.appcompat.R$styleable: int ActionBar_homeLayout
+android.support.v7.appcompat.R$styleable: int ActionBar_icon
+android.support.v7.appcompat.R$styleable: int ActionBar_indeterminateProgressStyle
+android.support.v7.appcompat.R$styleable: int ActionBar_itemPadding
+android.support.v7.appcompat.R$styleable: int ActionBar_logo
+android.support.v7.appcompat.R$styleable: int ActionBar_navigationMode
+android.support.v7.appcompat.R$styleable: int ActionBar_progressBarPadding
+android.support.v7.appcompat.R$styleable: int ActionBar_progressBarStyle
+android.support.v7.appcompat.R$styleable: int ActionBar_subtitle
+android.support.v7.appcompat.R$styleable: int ActionBar_subtitleTextStyle
+android.support.v7.appcompat.R$styleable: int ActionBar_title
+android.support.v7.appcompat.R$styleable: int ActionBar_titleTextStyle
+android.support.v7.appcompat.R$styleable: int[] ActionMenuItemView
+android.support.v7.appcompat.R$styleable: int ActionMenuItemView_android_minWidth
+android.support.v7.appcompat.R$styleable: int[] ActionMenuView
+android.support.v7.appcompat.R$styleable: int[] ActionMode
+android.support.v7.appcompat.R$styleable: int ActionMode_background
+android.support.v7.appcompat.R$styleable: int ActionMode_backgroundSplit
+android.support.v7.appcompat.R$styleable: int ActionMode_height
+android.support.v7.appcompat.R$styleable: int ActionMode_subtitleTextStyle
+android.support.v7.appcompat.R$styleable: int ActionMode_titleTextStyle
+android.support.v7.appcompat.R$styleable: int[] ActivityChooserView
+android.support.v7.appcompat.R$styleable: int ActivityChooserView_expandActivityOverflowButtonDrawable
+android.support.v7.appcompat.R$styleable: int ActivityChooserView_initialActivityCount
+android.support.v7.appcompat.R$styleable: int[] CompatTextView
+android.support.v7.appcompat.R$styleable: int CompatTextView_textAllCaps
+android.support.v7.appcompat.R$styleable: int[] LinearLayoutICS
+android.support.v7.appcompat.R$styleable: int LinearLayoutICS_divider
+android.support.v7.appcompat.R$styleable: int LinearLayoutICS_dividerPadding
+android.support.v7.appcompat.R$styleable: int LinearLayoutICS_showDividers
+android.support.v7.appcompat.R$styleable: int[] MenuGroup
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_checkableBehavior
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_enabled
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_id
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_menuCategory
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_orderInCategory
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_visible
+android.support.v7.appcompat.R$styleable: int[] MenuItem
+android.support.v7.appcompat.R$styleable: int MenuItem_actionLayout
+android.support.v7.appcompat.R$styleable: int MenuItem_actionProviderClass
+android.support.v7.appcompat.R$styleable: int MenuItem_actionViewClass
+android.support.v7.appcompat.R$styleable: int MenuItem_android_alphabeticShortcut
+android.support.v7.appcompat.R$styleable: int MenuItem_android_checkable
+android.support.v7.appcompat.R$styleable: int MenuItem_android_checked
+android.support.v7.appcompat.R$styleable: int MenuItem_android_enabled
+android.support.v7.appcompat.R$styleable: int MenuItem_android_icon
+android.support.v7.appcompat.R$styleable: int MenuItem_android_id
+android.support.v7.appcompat.R$styleable: int MenuItem_android_menuCategory
+android.support.v7.appcompat.R$styleable: int MenuItem_android_numericShortcut
+android.support.v7.appcompat.R$styleable: int MenuItem_android_onClick
+android.support.v7.appcompat.R$styleable: int MenuItem_android_orderInCategory
+android.support.v7.appcompat.R$styleable: int MenuItem_android_title
+android.support.v7.appcompat.R$styleable: int MenuItem_android_titleCondensed
+android.support.v7.appcompat.R$styleable: int MenuItem_android_visible
+android.support.v7.appcompat.R$styleable: int MenuItem_showAsAction
+android.support.v7.appcompat.R$styleable: int[] MenuView
+android.support.v7.appcompat.R$styleable: int MenuView_android_headerBackground
+android.support.v7.appcompat.R$styleable: int MenuView_android_horizontalDivider
+android.support.v7.appcompat.R$styleable: int MenuView_android_itemBackground
+android.support.v7.appcompat.R$styleable: int MenuView_android_itemIconDisabledAlpha
+android.support.v7.appcompat.R$styleable: int MenuView_android_itemTextAppearance
+android.support.v7.appcompat.R$styleable: int MenuView_android_preserveIconSpacing
+android.support.v7.appcompat.R$styleable: int MenuView_android_verticalDivider
+android.support.v7.appcompat.R$styleable: int MenuView_android_windowAnimationStyle
+android.support.v7.appcompat.R$styleable: int[] SearchView
+android.support.v7.appcompat.R$styleable: int SearchView_android_imeOptions
+android.support.v7.appcompat.R$styleable: int SearchView_android_inputType
+android.support.v7.appcompat.R$styleable: int SearchView_android_maxWidth
+android.support.v7.appcompat.R$styleable: int SearchView_iconifiedByDefault
+android.support.v7.appcompat.R$styleable: int SearchView_queryHint
+android.support.v7.appcompat.R$styleable: int[] Spinner
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownHorizontalOffset
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownSelector
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownVerticalOffset
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownWidth
+android.support.v7.appcompat.R$styleable: int Spinner_android_gravity
+android.support.v7.appcompat.R$styleable: int Spinner_android_popupBackground
+android.support.v7.appcompat.R$styleable: int Spinner_disableChildrenWhenDisabled
+android.support.v7.appcompat.R$styleable: int Spinner_popupPromptView
+android.support.v7.appcompat.R$styleable: int Spinner_prompt
+android.support.v7.appcompat.R$styleable: int Spinner_spinnerMode
+android.support.v7.appcompat.R$styleable: int[] Theme
+android.support.v7.appcompat.R$styleable: int Theme_actionDropDownStyle
+android.support.v7.appcompat.R$styleable: int Theme_dropdownListPreferredItemHeight
+android.support.v7.appcompat.R$styleable: int Theme_listChoiceBackgroundIndicator
+android.support.v7.appcompat.R$styleable: int Theme_panelMenuListTheme
+android.support.v7.appcompat.R$styleable: int Theme_panelMenuListWidth
+android.support.v7.appcompat.R$styleable: int Theme_popupMenuStyle
+android.support.v7.appcompat.R$styleable: int[] View
+android.support.v7.appcompat.R$styleable: int View_android_focusable
+android.support.v7.appcompat.R$styleable: int View_paddingEnd
+android.support.v7.appcompat.R$styleable: int View_paddingStart
+android.support.v7.internal.view.menu.ActionMenuItemView
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context)
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.view.menu.ActionMenuItemView: android.support.v7.internal.view.menu.MenuItemImpl getItemData()
+android.support.v7.internal.view.menu.ActionMenuItemView: void setItemInvoker(android.support.v7.internal.view.menu.MenuBuilder$ItemInvoker)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setCheckable(boolean)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setChecked(boolean)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setExpandedFormat(boolean)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.view.menu.ActionMenuPresenter$SavedState
+android.support.v7.internal.view.menu.ActionMenuPresenter$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.view.menu.ActionMenuView
+android.support.v7.internal.view.menu.ActionMenuView: ActionMenuView(android.content.Context)
+android.support.v7.internal.view.menu.ActionMenuView: ActionMenuView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ActionMenuView: void setPresenter(android.support.v7.internal.view.menu.ActionMenuPresenter)
+android.support.v7.internal.view.menu.ActionMenuView: void setOverflowReserved(boolean)
+android.support.v7.internal.view.menu.ActionMenuView: int getWindowAnimations()
+android.support.v7.internal.view.menu.ExpandedMenuView
+android.support.v7.internal.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ExpandedMenuView: int getWindowAnimations()
+android.support.v7.internal.view.menu.ListMenuItemView
+android.support.v7.internal.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ListMenuItemView: void setForceShowIcon(boolean)
+android.support.v7.internal.view.menu.ListMenuItemView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.view.menu.ListMenuItemView: android.support.v7.internal.view.menu.MenuItemImpl getItemData()
+android.support.v7.internal.view.menu.ListMenuItemView: void setCheckable(boolean)
+android.support.v7.internal.view.menu.ListMenuItemView: void setChecked(boolean)
+android.support.v7.internal.view.menu.ListMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+android.support.v7.internal.view.menu.ListMenuItemView: android.view.LayoutInflater getInflater()
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context)
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.AbsActionBarView: void setSplitActionBar(boolean)
+android.support.v7.internal.widget.AbsActionBarView: void setSplitWhenNarrow(boolean)
+android.support.v7.internal.widget.AbsActionBarView: void setContentHeight(int)
+android.support.v7.internal.widget.AbsActionBarView: int getContentHeight()
+android.support.v7.internal.widget.AbsActionBarView: void setSplitView(android.support.v7.internal.widget.ActionBarContainer)
+android.support.v7.internal.widget.AbsActionBarView: int getAnimatedVisibility()
+android.support.v7.internal.widget.AbsActionBarView: void setVisibility(int)
+android.support.v7.internal.widget.AbsSpinnerICS$SavedState
+android.support.v7.internal.widget.AbsSpinnerICS$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ActionBarContainer
+android.support.v7.internal.widget.ActionBarContainer: ActionBarContainer(android.content.Context)
+android.support.v7.internal.widget.ActionBarContainer: ActionBarContainer(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarContainer: void setPrimaryBackground(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarContainer: void setStackedBackground(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarContainer: void setSplitBackground(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarContainer: void setVisibility(int)
+android.support.v7.internal.widget.ActionBarContainer: void setTransitioning(boolean)
+android.support.v7.internal.widget.ActionBarContainer: void setTabContainer(android.support.v7.internal.widget.ScrollingTabContainerView)
+android.support.v7.internal.widget.ActionBarContainer: android.view.View getTabContainer()
+android.support.v7.internal.widget.ActionBarContextView
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context)
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.ActionBarContextView: void setSplitActionBar(boolean)
+android.support.v7.internal.widget.ActionBarContextView: void setContentHeight(int)
+android.support.v7.internal.widget.ActionBarContextView: void setCustomView(android.view.View)
+android.support.v7.internal.widget.ActionBarContextView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarContextView: void setSubtitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarContextView: java.lang.CharSequence getTitle()
+android.support.v7.internal.widget.ActionBarContextView: java.lang.CharSequence getSubtitle()
+android.support.v7.internal.widget.ActionBarContextView: void setTitleOptional(boolean)
+android.support.v7.internal.widget.ActionBarContextView: void setVisibility(int)
+android.support.v7.internal.widget.ActionBarContextView: int getAnimatedVisibility()
+android.support.v7.internal.widget.ActionBarContextView: void setSplitView(android.support.v7.internal.widget.ActionBarContainer)
+android.support.v7.internal.widget.ActionBarContextView: int getContentHeight()
+android.support.v7.internal.widget.ActionBarContextView: void setSplitWhenNarrow(boolean)
+android.support.v7.internal.widget.ActionBarOverlayLayout
+android.support.v7.internal.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context)
+android.support.v7.internal.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarOverlayLayout: void setActionBar(android.support.v7.app.ActionBar)
+android.support.v7.internal.widget.ActionBarView
+android.support.v7.internal.widget.ActionBarView: ActionBarView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarView: void setWindowCallback(android.view.Window$Callback)
+android.support.v7.internal.widget.ActionBarView: void setSplitActionBar(boolean)
+android.support.v7.internal.widget.ActionBarView: void setEmbeddedTabView(android.support.v7.internal.widget.ScrollingTabContainerView)
+android.support.v7.internal.widget.ActionBarView: void setCallback(android.support.v7.app.ActionBar$OnNavigationListener)
+android.support.v7.internal.widget.ActionBarView: void setCustomNavigationView(android.view.View)
+android.support.v7.internal.widget.ActionBarView: java.lang.CharSequence getTitle()
+android.support.v7.internal.widget.ActionBarView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: void setWindowTitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: void setTitleImpl(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: java.lang.CharSequence getSubtitle()
+android.support.v7.internal.widget.ActionBarView: void setSubtitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: void setHomeButtonEnabled(boolean)
+android.support.v7.internal.widget.ActionBarView: void setDisplayOptions(int)
+android.support.v7.internal.widget.ActionBarView: void setIcon(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarView: void setIcon(int)
+android.support.v7.internal.widget.ActionBarView: void setLogo(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarView: void setLogo(int)
+android.support.v7.internal.widget.ActionBarView: void setNavigationMode(int)
+android.support.v7.internal.widget.ActionBarView: void setDropdownAdapter(android.widget.SpinnerAdapter)
+android.support.v7.internal.widget.ActionBarView: android.widget.SpinnerAdapter getDropdownAdapter()
+android.support.v7.internal.widget.ActionBarView: void setDropdownSelectedPosition(int)
+android.support.v7.internal.widget.ActionBarView: int getDropdownSelectedPosition()
+android.support.v7.internal.widget.ActionBarView: android.view.View getCustomNavigationView()
+android.support.v7.internal.widget.ActionBarView: int getNavigationMode()
+android.support.v7.internal.widget.ActionBarView: int getDisplayOptions()
+android.support.v7.internal.widget.ActionBarView: void setContextView(android.support.v7.internal.widget.ActionBarContextView)
+android.support.v7.internal.widget.ActionBarView: void setCollapsable(boolean)
+android.support.v7.internal.widget.ActionBarView: void setHomeAsUpIndicator(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarView: void setHomeAsUpIndicator(int)
+android.support.v7.internal.widget.ActionBarView: void setVisibility(int)
+android.support.v7.internal.widget.ActionBarView: int getAnimatedVisibility()
+android.support.v7.internal.widget.ActionBarView: void setSplitView(android.support.v7.internal.widget.ActionBarContainer)
+android.support.v7.internal.widget.ActionBarView: int getContentHeight()
+android.support.v7.internal.widget.ActionBarView: void setContentHeight(int)
+android.support.v7.internal.widget.ActionBarView: void setSplitWhenNarrow(boolean)
+android.support.v7.internal.widget.ActionBarView$HomeView
+android.support.v7.internal.widget.ActionBarView$HomeView: ActionBarView$HomeView(android.content.Context)
+android.support.v7.internal.widget.ActionBarView$HomeView: ActionBarView$HomeView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarView$SavedState
+android.support.v7.internal.widget.ActionBarView$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ActivityChooserView: void setActivityChooserModel(android.support.v7.internal.widget.ActivityChooserModel)
+android.support.v7.internal.widget.ActivityChooserView: void setExpandActivityOverflowButtonDrawable(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActivityChooserView: void setExpandActivityOverflowButtonContentDescription(int)
+android.support.v7.internal.widget.ActivityChooserView: void setProvider(android.support.v4.view.ActionProvider)
+android.support.v7.internal.widget.ActivityChooserView: android.support.v7.internal.widget.ActivityChooserModel getDataModel()
+android.support.v7.internal.widget.ActivityChooserView: void setOnDismissListener(android.widget.PopupWindow$OnDismissListener)
+android.support.v7.internal.widget.ActivityChooserView: void setInitialActivityCount(int)
+android.support.v7.internal.widget.ActivityChooserView: void setDefaultActionButtonContentDescription(int)
+android.support.v7.internal.widget.ActivityChooserView: android.support.v7.internal.widget.ListPopupWindow getListPopupWindow()
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context)
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.LinearLayoutICS
+android.support.v7.internal.widget.LinearLayoutICS: LinearLayoutICS(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.LinearLayoutICS: int getSupportDividerWidth()
+android.support.v7.internal.widget.NativeActionModeAwareLayout
+android.support.v7.internal.widget.NativeActionModeAwareLayout: NativeActionModeAwareLayout(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.NativeActionModeAwareLayout: void setActionModeForChildListener(android.support.v7.internal.widget.NativeActionModeAwareLayout$OnActionModeForChildListener)
+android.support.v7.internal.widget.ProgressBarICS: android.graphics.drawable.shapes.Shape getDrawableShape()
+android.support.v7.internal.widget.ProgressBarICS: void setIndeterminate(boolean)
+android.support.v7.internal.widget.ProgressBarICS: android.graphics.drawable.Drawable getIndeterminateDrawable()
+android.support.v7.internal.widget.ProgressBarICS: void setIndeterminateDrawable(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ProgressBarICS: android.graphics.drawable.Drawable getProgressDrawable()
+android.support.v7.internal.widget.ProgressBarICS: void setProgressDrawable(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ProgressBarICS: void setProgress(int)
+android.support.v7.internal.widget.ProgressBarICS: void setSecondaryProgress(int)
+android.support.v7.internal.widget.ProgressBarICS: int getProgress()
+android.support.v7.internal.widget.ProgressBarICS: int getSecondaryProgress()
+android.support.v7.internal.widget.ProgressBarICS: int getMax()
+android.support.v7.internal.widget.ProgressBarICS: void setMax(int)
+android.support.v7.internal.widget.ProgressBarICS: void setInterpolator(android.view.animation.Interpolator)
+android.support.v7.internal.widget.ProgressBarICS: android.view.animation.Interpolator getInterpolator()
+android.support.v7.internal.widget.ProgressBarICS: void setVisibility(int)
+android.support.v7.internal.widget.ProgressBarICS$SavedState
+android.support.v7.internal.widget.ProgressBarICS$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ScrollingTabContainerView: void setAllowCollapse(boolean)
+android.support.v7.internal.widget.ScrollingTabContainerView: void setTabSelected(int)
+android.support.v7.internal.widget.ScrollingTabContainerView: void setContentHeight(int)
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView: ScrollingTabContainerView$TabView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView: android.support.v7.app.ActionBar$Tab getTab()
+android.support.v7.widget.SearchView: void setSearchableInfo(android.app.SearchableInfo)
+android.support.v7.widget.SearchView: void setAppSearchData(android.os.Bundle)
+android.support.v7.widget.SearchView: void setImeOptions(int)
+android.support.v7.widget.SearchView: int getImeOptions()
+android.support.v7.widget.SearchView: void setInputType(int)
+android.support.v7.widget.SearchView: int getInputType()
+android.support.v7.widget.SearchView: void setOnQueryTextListener(android.support.v7.widget.SearchView$OnQueryTextListener)
+android.support.v7.widget.SearchView: void setOnCloseListener(android.support.v7.widget.SearchView$OnCloseListener)
+android.support.v7.widget.SearchView: void setOnQueryTextFocusChangeListener(android.view.View$OnFocusChangeListener)
+android.support.v7.widget.SearchView: void setOnSuggestionListener(android.support.v7.widget.SearchView$OnSuggestionListener)
+android.support.v7.widget.SearchView: void setOnSearchClickListener(android.view.View$OnClickListener)
+android.support.v7.widget.SearchView: java.lang.CharSequence getQuery()
+android.support.v7.widget.SearchView: void setQueryHint(java.lang.CharSequence)
+android.support.v7.widget.SearchView: java.lang.CharSequence getQueryHint()
+android.support.v7.widget.SearchView: void setIconifiedByDefault(boolean)
+android.support.v7.widget.SearchView: void setIconified(boolean)
+android.support.v7.widget.SearchView: void setSubmitButtonEnabled(boolean)
+android.support.v7.widget.SearchView: void setQueryRefinementEnabled(boolean)
+android.support.v7.widget.SearchView: void setSuggestionsAdapter(android.support.v4.widget.CursorAdapter)
+android.support.v7.widget.SearchView: android.support.v4.widget.CursorAdapter getSuggestionsAdapter()
+android.support.v7.widget.SearchView: void setMaxWidth(int)
+android.support.v7.widget.SearchView: int getMaxWidth()
+android.support.v7.widget.SearchView: int getPreferredWidth()
+android.support.v7.widget.SearchView: void setImeVisibility(boolean)
+android.support.v7.widget.SearchView: int getSearchIconId()
+android.support.v7.widget.SearchView: void setQuery(java.lang.CharSequence)
+android.support.v7.widget.SearchView$SearchAutoComplete
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context)
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet)
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.widget.SearchView$SearchAutoComplete: void setSearchView(android.support.v7.widget.SearchView)
+android.support.v7.widget.SearchView$SearchAutoComplete: void setThreshold(int)
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode[] values()
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode valueOf(java.lang.String)
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender[] values()
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender valueOf(java.lang.String)
+com.google.android.gcm.GCMBaseIntentService: GCMBaseIntentService()
+com.google.android.gcm.GCMBaseIntentService: GCMBaseIntentService(java.lang.String[])
+com.google.android.gcm.GCMBaseIntentService: GCMBaseIntentService(java.lang.String,java.lang.String[])
+com.google.android.gcm.GCMBroadcastReceiver
+com.google.android.gcm.GCMBroadcastReceiver: GCMBroadcastReceiver()
+com.google.android.gms.R$attr: int adSize
+com.google.android.gms.R$attr: int adSizes
+com.google.android.gms.R$attr: int adUnitId
+com.google.android.gms.R$attr: int cameraBearing
+com.google.android.gms.R$attr: int cameraTargetLat
+com.google.android.gms.R$attr: int cameraTargetLng
+com.google.android.gms.R$attr: int cameraTilt
+com.google.android.gms.R$attr: int cameraZoom
+com.google.android.gms.R$attr: int mapType
+com.google.android.gms.R$attr: int uiCompass
+com.google.android.gms.R$attr: int uiRotateGestures
+com.google.android.gms.R$attr: int uiScrollGestures
+com.google.android.gms.R$attr: int uiTiltGestures
+com.google.android.gms.R$attr: int uiZoomControls
+com.google.android.gms.R$attr: int uiZoomGestures
+com.google.android.gms.R$attr: int useViewLifecycle
+com.google.android.gms.R$attr: int zOrderOnTop
+com.google.android.gms.R$color: int common_action_bar_splitter
+com.google.android.gms.R$color: int common_signin_btn_dark_text_default
+com.google.android.gms.R$color: int common_signin_btn_dark_text_disabled
+com.google.android.gms.R$color: int common_signin_btn_dark_text_focused
+com.google.android.gms.R$color: int common_signin_btn_dark_text_pressed
+com.google.android.gms.R$color: int common_signin_btn_default_background
+com.google.android.gms.R$color: int common_signin_btn_light_text_default
+com.google.android.gms.R$color: int common_signin_btn_light_text_disabled
+com.google.android.gms.R$color: int common_signin_btn_light_text_focused
+com.google.android.gms.R$color: int common_signin_btn_light_text_pressed
+com.google.android.gms.R$color: int common_signin_btn_text_dark
+com.google.android.gms.R$color: int common_signin_btn_text_light
+com.google.android.gms.R$drawable: int common_signin_btn_icon_dark
+com.google.android.gms.R$drawable: int common_signin_btn_icon_disabled_dark
+com.google.android.gms.R$drawable: int common_signin_btn_icon_disabled_focus_dark
+com.google.android.gms.R$drawable: int common_signin_btn_icon_disabled_focus_light
+com.google.android.gms.R$drawable: int common_signin_btn_icon_disabled_light
+com.google.android.gms.R$drawable: int common_signin_btn_icon_focus_dark
+com.google.android.gms.R$drawable: int common_signin_btn_icon_focus_light
+com.google.android.gms.R$drawable: int common_signin_btn_icon_light
+com.google.android.gms.R$drawable: int common_signin_btn_icon_normal_dark
+com.google.android.gms.R$drawable: int common_signin_btn_icon_normal_light
+com.google.android.gms.R$drawable: int common_signin_btn_icon_pressed_dark
+com.google.android.gms.R$drawable: int common_signin_btn_icon_pressed_light
+com.google.android.gms.R$drawable: int common_signin_btn_text_dark
+com.google.android.gms.R$drawable: int common_signin_btn_text_disabled_dark
+com.google.android.gms.R$drawable: int common_signin_btn_text_disabled_focus_dark
+com.google.android.gms.R$drawable: int common_signin_btn_text_disabled_focus_light
+com.google.android.gms.R$drawable: int common_signin_btn_text_disabled_light
+com.google.android.gms.R$drawable: int common_signin_btn_text_focus_dark
+com.google.android.gms.R$drawable: int common_signin_btn_text_focus_light
+com.google.android.gms.R$drawable: int common_signin_btn_text_light
+com.google.android.gms.R$drawable: int common_signin_btn_text_normal_dark
+com.google.android.gms.R$drawable: int common_signin_btn_text_normal_light
+com.google.android.gms.R$drawable: int common_signin_btn_text_pressed_dark
+com.google.android.gms.R$drawable: int common_signin_btn_text_pressed_light
+com.google.android.gms.R$drawable: int ic_plusone_medium_off_client
+com.google.android.gms.R$drawable: int ic_plusone_small_off_client
+com.google.android.gms.R$drawable: int ic_plusone_standard_off_client
+com.google.android.gms.R$drawable: int ic_plusone_tall_off_client
+com.google.android.gms.R$id: int hybrid
+com.google.android.gms.R$id: int none
+com.google.android.gms.R$id: int normal
+com.google.android.gms.R$id: int satellite
+com.google.android.gms.R$id: int terrain
+com.google.android.gms.R$integer: int google_play_services_version
+com.google.android.gms.R$string: int auth_client_needs_enabling_title
+com.google.android.gms.R$string: int auth_client_needs_installation_title
+com.google.android.gms.R$string: int auth_client_needs_update_title
+com.google.android.gms.R$string: int auth_client_play_services_err_notification_msg
+com.google.android.gms.R$string: int auth_client_requested_by_msg
+com.google.android.gms.R$string: int auth_client_using_bad_version_title
+com.google.android.gms.R$string: int common_google_play_services_enable_button
+com.google.android.gms.R$string: int common_google_play_services_enable_text
+com.google.android.gms.R$string: int common_google_play_services_enable_title
+com.google.android.gms.R$string: int common_google_play_services_install_button
+com.google.android.gms.R$string: int common_google_play_services_install_text_phone
+com.google.android.gms.R$string: int common_google_play_services_install_text_tablet
+com.google.android.gms.R$string: int common_google_play_services_install_title
+com.google.android.gms.R$string: int common_google_play_services_invalid_account_text
+com.google.android.gms.R$string: int common_google_play_services_invalid_account_title
+com.google.android.gms.R$string: int common_google_play_services_network_error_text
+com.google.android.gms.R$string: int common_google_play_services_network_error_title
+com.google.android.gms.R$string: int common_google_play_services_unknown_issue
+com.google.android.gms.R$string: int common_google_play_services_unsupported_date_text
+com.google.android.gms.R$string: int common_google_play_services_unsupported_text
+com.google.android.gms.R$string: int common_google_play_services_unsupported_title
+com.google.android.gms.R$string: int common_google_play_services_update_button
+com.google.android.gms.R$string: int common_google_play_services_update_text
+com.google.android.gms.R$string: int common_google_play_services_update_title
+com.google.android.gms.R$string: int common_signin_button_text
+com.google.android.gms.R$string: int common_signin_button_text_long
+com.google.android.gms.R$styleable: int[] AdsAttrs
+com.google.android.gms.R$styleable: int AdsAttrs_adSize
+com.google.android.gms.R$styleable: int AdsAttrs_adSizes
+com.google.android.gms.R$styleable: int AdsAttrs_adUnitId
+com.google.android.gms.R$styleable: int[] MapAttrs
+com.google.android.gms.R$styleable: int MapAttrs_cameraBearing
+com.google.android.gms.R$styleable: int MapAttrs_cameraTargetLat
+com.google.android.gms.R$styleable: int MapAttrs_cameraTargetLng
+com.google.android.gms.R$styleable: int MapAttrs_cameraTilt
+com.google.android.gms.R$styleable: int MapAttrs_cameraZoom
+com.google.android.gms.R$styleable: int MapAttrs_mapType
+com.google.android.gms.R$styleable: int MapAttrs_uiCompass
+com.google.android.gms.R$styleable: int MapAttrs_uiRotateGestures
+com.google.android.gms.R$styleable: int MapAttrs_uiScrollGestures
+com.google.android.gms.R$styleable: int MapAttrs_uiTiltGestures
+com.google.android.gms.R$styleable: int MapAttrs_uiZoomControls
+com.google.android.gms.R$styleable: int MapAttrs_uiZoomGestures
+com.google.android.gms.R$styleable: int MapAttrs_useViewLifecycle
+com.google.android.gms.R$styleable: int MapAttrs_zOrderOnTop
+com.google.android.gms.ads.AdView: com.google.android.gms.ads.AdListener getAdListener()
+com.google.android.gms.ads.AdView: com.google.android.gms.ads.AdSize getAdSize()
+com.google.android.gms.ads.AdView: java.lang.String getAdUnitId()
+com.google.android.gms.ads.AdView: void setAdListener(com.google.android.gms.ads.AdListener)
+com.google.android.gms.ads.AdView: void setAdSize(com.google.android.gms.ads.AdSize)
+com.google.android.gms.ads.AdView: void setAdUnitId(java.lang.String)
+com.google.android.gms.ads.doubleclick.PublisherAdView: com.google.android.gms.ads.AdListener getAdListener()
+com.google.android.gms.ads.doubleclick.PublisherAdView: com.google.android.gms.ads.AdSize getAdSize()
+com.google.android.gms.ads.doubleclick.PublisherAdView: com.google.android.gms.ads.AdSize[] getAdSizes()
+com.google.android.gms.ads.doubleclick.PublisherAdView: java.lang.String getAdUnitId()
+com.google.android.gms.ads.doubleclick.PublisherAdView: com.google.android.gms.ads.doubleclick.AppEventListener getAppEventListener()
+com.google.android.gms.ads.doubleclick.PublisherAdView: void setAdListener(com.google.android.gms.ads.AdListener)
+com.google.android.gms.ads.doubleclick.PublisherAdView: void setAdSizes(com.google.android.gms.ads.AdSize[])
+com.google.android.gms.ads.doubleclick.PublisherAdView: void setAdUnitId(java.lang.String)
+com.google.android.gms.ads.doubleclick.PublisherAdView: void setAppEventListener(com.google.android.gms.ads.doubleclick.AppEventListener)
+com.google.android.gms.ads.search.SearchAdView: com.google.android.gms.ads.AdListener getAdListener()
+com.google.android.gms.ads.search.SearchAdView: com.google.android.gms.ads.AdSize getAdSize()
+com.google.android.gms.ads.search.SearchAdView: java.lang.String getAdUnitId()
+com.google.android.gms.ads.search.SearchAdView: void setAdListener(com.google.android.gms.ads.AdListener)
+com.google.android.gms.ads.search.SearchAdView: void setAdSize(com.google.android.gms.ads.AdSize)
+com.google.android.gms.ads.search.SearchAdView: void setAdUnitId(java.lang.String)
+com.google.android.gms.cast.ApplicationMetadata
+com.google.android.gms.cast.ApplicationMetadata: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.cast.CastDevice
+com.google.android.gms.cast.CastDevice: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.SignInButton: void setSize(int)
+com.google.android.gms.common.SignInButton: void setColorScheme(int)
+com.google.android.gms.common.SignInButton: void setOnClickListener(android.view.View$OnClickListener)
+com.google.android.gms.common.SignInButton: void setEnabled(boolean)
+com.google.android.gms.common.api.Status
+com.google.android.gms.common.api.Status: com.google.android.gms.common.api.StatusCreator CREATOR
+com.google.android.gms.common.data.DataHolder
+com.google.android.gms.common.data.DataHolder: com.google.android.gms.common.data.DataHolderCreator CREATOR
+com.google.android.gms.common.images.ImageManager$ImageReceiver
+com.google.android.gms.common.images.WebImage
+com.google.android.gms.common.images.WebImage: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.safeparcel.SafeParcelable
+com.google.android.gms.common.internal.safeparcel.SafeParcelable: java.lang.String NULL
+com.google.android.gms.drive.Contents
+com.google.android.gms.drive.Contents: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.DriveId
+com.google.android.gms.drive.DriveId: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.CloseContentsRequest
+com.google.android.gms.drive.internal.CloseContentsRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.CreateContentsRequest
+com.google.android.gms.drive.internal.CreateContentsRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.CreateFileIntentSenderRequest
+com.google.android.gms.drive.internal.CreateFileIntentSenderRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.CreateFileRequest
+com.google.android.gms.drive.internal.CreateFileRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.CreateFolderRequest
+com.google.android.gms.drive.internal.CreateFolderRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.GetMetadataRequest
+com.google.android.gms.drive.internal.GetMetadataRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.OnContentsResponse
+com.google.android.gms.drive.internal.OnContentsResponse: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.OnDownloadProgressResponse
+com.google.android.gms.drive.internal.OnDownloadProgressResponse: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.OnDriveIdResponse
+com.google.android.gms.drive.internal.OnDriveIdResponse: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.OnListEntriesResponse
+com.google.android.gms.drive.internal.OnListEntriesResponse: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.OnMetadataResponse
+com.google.android.gms.drive.internal.OnMetadataResponse: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.OpenContentsRequest
+com.google.android.gms.drive.internal.OpenContentsRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.OpenFileIntentSenderRequest
+com.google.android.gms.drive.internal.OpenFileIntentSenderRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.QueryRequest
+com.google.android.gms.drive.internal.QueryRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.internal.UpdateMetadataRequest
+com.google.android.gms.drive.internal.UpdateMetadataRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.metadata.internal.MetadataBundle
+com.google.android.gms.drive.metadata.internal.MetadataBundle: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.query.Query
+com.google.android.gms.drive.query.Query: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.query.internal.ComparisonFilter
+com.google.android.gms.drive.query.internal.ComparisonFilter: com.google.android.gms.drive.query.internal.a CREATOR
+com.google.android.gms.drive.query.internal.FieldOnlyFilter
+com.google.android.gms.drive.query.internal.FieldOnlyFilter: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.query.internal.FilterHolder
+com.google.android.gms.drive.query.internal.FilterHolder: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.query.internal.InFilter
+com.google.android.gms.drive.query.internal.InFilter: com.google.android.gms.drive.query.internal.e CREATOR
+com.google.android.gms.drive.query.internal.LogicalFilter
+com.google.android.gms.drive.query.internal.LogicalFilter: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.query.internal.NotFilter
+com.google.android.gms.drive.query.internal.NotFilter: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.drive.query.internal.Operator
+com.google.android.gms.drive.query.internal.Operator: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.games.Game
+com.google.android.gms.games.GameEntity
+com.google.android.gms.games.GameEntity: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.games.Player
+com.google.android.gms.games.PlayerEntity
+com.google.android.gms.games.PlayerEntity: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.games.b
+com.google.android.gms.games.d
+com.google.android.gms.games.multiplayer.Invitation
+com.google.android.gms.games.multiplayer.InvitationEntity
+com.google.android.gms.games.multiplayer.InvitationEntity: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.games.multiplayer.Participant
+com.google.android.gms.games.multiplayer.ParticipantEntity
+com.google.android.gms.games.multiplayer.ParticipantEntity: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.games.multiplayer.ParticipantResult
+com.google.android.gms.games.multiplayer.ParticipantResult: com.google.android.gms.games.multiplayer.ParticipantResultCreator CREATOR
+com.google.android.gms.games.multiplayer.b
+com.google.android.gms.games.multiplayer.d
+com.google.android.gms.games.multiplayer.realtime.RealTimeMessage
+com.google.android.gms.games.multiplayer.realtime.RealTimeMessage: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.games.multiplayer.realtime.Room
+com.google.android.gms.games.multiplayer.realtime.RoomEntity
+com.google.android.gms.games.multiplayer.realtime.RoomEntity: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.games.multiplayer.realtime.c
+com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch
+com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity
+com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity: com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntityCreator CREATOR
+com.google.android.gms.games.multiplayer.turnbased.a
+com.google.android.gms.internal.ai
+com.google.android.gms.internal.ai: com.google.android.gms.internal.aj CREATOR
+com.google.android.gms.internal.bj
+com.google.android.gms.internal.bj: com.google.android.gms.internal.bi CREATOR
+com.google.android.gms.internal.bm
+com.google.android.gms.internal.bm: com.google.android.gms.internal.bl CREATOR
+com.google.android.gms.internal.bz
+com.google.android.gms.internal.bz: com.google.android.gms.internal.ca CREATOR
+com.google.android.gms.internal.cb
+com.google.android.gms.internal.cb: com.google.android.gms.internal.cc CREATOR
+com.google.android.gms.internal.cu
+com.google.android.gms.internal.cu: com.google.android.gms.internal.cv CREATOR
+com.google.android.gms.internal.cw: void setContext(android.content.Context)
+com.google.android.gms.internal.dt$a
+com.google.android.gms.internal.dt$a: com.google.android.gms.internal.ef CREATOR
+com.google.android.gms.internal.dv
+com.google.android.gms.internal.el
+com.google.android.gms.internal.el: com.google.android.gms.internal.em CREATOR
+com.google.android.gms.internal.en
+com.google.android.gms.internal.en: com.google.android.gms.internal.eo CREATOR
+com.google.android.gms.internal.ep
+com.google.android.gms.internal.ep: com.google.android.gms.internal.eq CREATOR
+com.google.android.gms.internal.ep$a
+com.google.android.gms.internal.ep$a: com.google.android.gms.internal.er CREATOR
+com.google.android.gms.internal.es$a
+com.google.android.gms.internal.es$a: com.google.android.gms.internal.et CREATOR
+com.google.android.gms.internal.ev
+com.google.android.gms.internal.ev: com.google.android.gms.internal.ew CREATOR
+com.google.android.gms.internal.ev$a
+com.google.android.gms.internal.ev$a: com.google.android.gms.internal.ex CREATOR
+com.google.android.gms.internal.ev$b
+com.google.android.gms.internal.ev$b: com.google.android.gms.internal.eu CREATOR
+com.google.android.gms.internal.ey
+com.google.android.gms.internal.ey: com.google.android.gms.internal.ez CREATOR
+com.google.android.gms.internal.fm
+com.google.android.gms.internal.gh
+com.google.android.gms.internal.gh: com.google.android.gms.internal.gi CREATOR
+com.google.android.gms.internal.go
+com.google.android.gms.internal.go: com.google.android.gms.internal.gp CREATOR
+com.google.android.gms.internal.gt
+com.google.android.gms.internal.gt: com.google.android.gms.internal.gu CREATOR
+com.google.android.gms.internal.gv
+com.google.android.gms.internal.gv: com.google.android.gms.internal.gw CREATOR
+com.google.android.gms.internal.gx
+com.google.android.gms.internal.gx: com.google.android.gms.internal.gy CREATOR
+com.google.android.gms.internal.hb
+com.google.android.gms.internal.hb: com.google.android.gms.internal.hc CREATOR
+com.google.android.gms.internal.hd
+com.google.android.gms.internal.hd: com.google.android.gms.internal.he CREATOR
+com.google.android.gms.internal.hd$a
+com.google.android.gms.internal.hd$a: com.google.android.gms.internal.ha CREATOR
+com.google.android.gms.internal.hf
+com.google.android.gms.internal.hf: com.google.android.gms.internal.hg CREATOR
+com.google.android.gms.internal.hi
+com.google.android.gms.internal.hi: com.google.android.gms.internal.hj CREATOR
+com.google.android.gms.internal.hu
+com.google.android.gms.internal.hu: com.google.android.gms.internal.hw CREATOR
+com.google.android.gms.internal.ib
+com.google.android.gms.internal.ib: com.google.android.gms.internal.ic CREATOR
+com.google.android.gms.internal.id
+com.google.android.gms.internal.id: com.google.android.gms.internal.ie CREATOR
+com.google.android.gms.internal.ig
+com.google.android.gms.internal.ig: com.google.android.gms.internal.ih CREATOR
+com.google.android.gms.internal.ig$a
+com.google.android.gms.internal.ig$a: com.google.android.gms.internal.ii CREATOR
+com.google.android.gms.internal.ig$b
+com.google.android.gms.internal.ig$b: com.google.android.gms.internal.ij CREATOR
+com.google.android.gms.internal.ig$b$a
+com.google.android.gms.internal.ig$b$a: com.google.android.gms.internal.ik CREATOR
+com.google.android.gms.internal.ig$b$b
+com.google.android.gms.internal.ig$b$b: com.google.android.gms.internal.il CREATOR
+com.google.android.gms.internal.ig$c
+com.google.android.gms.internal.ig$c: com.google.android.gms.internal.im CREATOR
+com.google.android.gms.internal.ig$d
+com.google.android.gms.internal.ig$d: com.google.android.gms.internal.in CREATOR
+com.google.android.gms.internal.ig$f
+com.google.android.gms.internal.ig$f: com.google.android.gms.internal.io CREATOR
+com.google.android.gms.internal.ig$g
+com.google.android.gms.internal.ig$g: com.google.android.gms.internal.ip CREATOR
+com.google.android.gms.internal.ig$h
+com.google.android.gms.internal.ig$h: com.google.android.gms.internal.iq CREATOR
+com.google.android.gms.internal.v
+com.google.android.gms.internal.v: com.google.android.gms.internal.w CREATOR
+com.google.android.gms.internal.x
+com.google.android.gms.internal.x: com.google.android.gms.internal.y CREATOR
+com.google.android.gms.location.ActivityRecognitionResult
+com.google.android.gms.location.ActivityRecognitionResult: com.google.android.gms.location.ActivityRecognitionResultCreator CREATOR
+com.google.android.gms.location.DetectedActivity
+com.google.android.gms.location.DetectedActivity: com.google.android.gms.location.DetectedActivityCreator CREATOR
+com.google.android.gms.location.LocationRequest
+com.google.android.gms.location.LocationRequest: com.google.android.gms.location.LocationRequestCreator CREATOR
+com.google.android.gms.location.a
+com.google.android.gms.location.a: com.google.android.gms.location.b CREATOR
+com.google.android.gms.location.d
+com.google.android.gms.location.d: com.google.android.gms.location.e CREATOR
+com.google.android.gms.location.f
+com.google.android.gms.location.f: com.google.android.gms.location.g CREATOR
+com.google.android.gms.maps.GoogleMapOptions
+com.google.android.gms.maps.GoogleMapOptions: com.google.android.gms.maps.GoogleMapOptionsCreator CREATOR
+com.google.android.gms.maps.MapView: com.google.android.gms.maps.GoogleMap getMap()
+com.google.android.gms.maps.SupportMapFragment
+com.google.android.gms.maps.SupportMapFragment: SupportMapFragment()
+com.google.android.gms.maps.model.CameraPosition
+com.google.android.gms.maps.model.CameraPosition: com.google.android.gms.maps.model.CameraPositionCreator CREATOR
+com.google.android.gms.maps.model.CircleOptions
+com.google.android.gms.maps.model.CircleOptions: com.google.android.gms.maps.model.CircleOptionsCreator CREATOR
+com.google.android.gms.maps.model.GroundOverlayOptions
+com.google.android.gms.maps.model.GroundOverlayOptions: com.google.android.gms.maps.model.GroundOverlayOptionsCreator CREATOR
+com.google.android.gms.maps.model.LatLng
+com.google.android.gms.maps.model.LatLng: com.google.android.gms.maps.model.LatLngCreator CREATOR
+com.google.android.gms.maps.model.LatLngBounds
+com.google.android.gms.maps.model.LatLngBounds: com.google.android.gms.maps.model.LatLngBoundsCreator CREATOR
+com.google.android.gms.maps.model.MarkerOptions
+com.google.android.gms.maps.model.MarkerOptions: com.google.android.gms.maps.model.MarkerOptionsCreator CREATOR
+com.google.android.gms.maps.model.PolygonOptions
+com.google.android.gms.maps.model.PolygonOptions: com.google.android.gms.maps.model.PolygonOptionsCreator CREATOR
+com.google.android.gms.maps.model.PolylineOptions
+com.google.android.gms.maps.model.PolylineOptions: com.google.android.gms.maps.model.PolylineOptionsCreator CREATOR
+com.google.android.gms.maps.model.Tile
+com.google.android.gms.maps.model.Tile: com.google.android.gms.maps.model.TileCreator CREATOR
+com.google.android.gms.maps.model.TileOverlayOptions
+com.google.android.gms.maps.model.TileOverlayOptions: com.google.android.gms.maps.model.TileOverlayOptionsCreator CREATOR
+com.google.android.gms.maps.model.VisibleRegion
+com.google.android.gms.maps.model.VisibleRegion: com.google.android.gms.maps.model.VisibleRegionCreator CREATOR
+com.google.android.gms.plus.PlusOneButton: void setOnPlusOneClickListener(com.google.android.gms.plus.PlusOneButton$OnPlusOneClickListener)
+com.google.android.gms.plus.PlusOneButton: void setAnnotation(int)
+com.google.android.gms.plus.PlusOneButton: void setSize(int)
+com.google.android.gms.plus.PlusOneButtonWithPopup: void setOnClickListener(android.view.View$OnClickListener)
+com.google.android.gms.plus.PlusOneButtonWithPopup: void setAnnotation(int)
+com.google.android.gms.plus.PlusOneButtonWithPopup: void setSize(int)
+com.google.android.gms.plus.PlusOneButtonWithPopup: android.app.PendingIntent getResolution()
+com.google.android.gms.wallet.Address
+com.google.android.gms.wallet.Address: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.Cart
+com.google.android.gms.wallet.Cart: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.CountrySpecification
+com.google.android.gms.wallet.CountrySpecification: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.FullWallet
+com.google.android.gms.wallet.FullWallet: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.FullWalletRequest
+com.google.android.gms.wallet.FullWalletRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.LineItem
+com.google.android.gms.wallet.LineItem: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.LoyaltyWalletObject
+com.google.android.gms.wallet.LoyaltyWalletObject: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.MaskedWallet
+com.google.android.gms.wallet.MaskedWallet: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.MaskedWalletRequest
+com.google.android.gms.wallet.MaskedWalletRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.NotifyTransactionStatusRequest
+com.google.android.gms.wallet.NotifyTransactionStatusRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.OfferWalletObject
+com.google.android.gms.wallet.OfferWalletObject: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.wallet.ProxyCard
+com.google.android.gms.wallet.ProxyCard: android.os.Parcelable$Creator CREATOR
+com.suredigit.inappfeedback.FeedbackDialog$LogTypes: com.suredigit.inappfeedback.FeedbackDialog$LogTypes[] values()
+com.suredigit.inappfeedback.FeedbackDialog$LogTypes: com.suredigit.inappfeedback.FeedbackDialog$LogTypes valueOf(java.lang.String)
+mnnit.vinayakAj.culrav2k14.ContactsActivity
+mnnit.vinayakAj.culrav2k14.ContactsActivity: ContactsActivity()
+mnnit.vinayakAj.culrav2k14.CulravBaseActivity: CulravBaseActivity()
+mnnit.vinayakAj.culrav2k14.EventDetailsActivity
+mnnit.vinayakAj.culrav2k14.EventDetailsActivity: EventDetailsActivity()
+mnnit.vinayakAj.culrav2k14.ExploreEventsActivity
+mnnit.vinayakAj.culrav2k14.ExploreEventsActivity: ExploreEventsActivity()
+mnnit.vinayakAj.culrav2k14.GCMIntentService
+mnnit.vinayakAj.culrav2k14.GCMIntentService: GCMIntentService(boolean)
+mnnit.vinayakAj.culrav2k14.GCMIntentService: GCMIntentService()
+mnnit.vinayakAj.culrav2k14.GCMServerIntentService
+mnnit.vinayakAj.culrav2k14.GCMServerIntentService: GCMServerIntentService()
+mnnit.vinayakAj.culrav2k14.HomeUI
+mnnit.vinayakAj.culrav2k14.HomeUI: HomeUI()
+mnnit.vinayakAj.culrav2k14.MapActivity
+mnnit.vinayakAj.culrav2k14.MapActivity: MapActivity()
+mnnit.vinayakAj.culrav2k14.NitesActivity
+mnnit.vinayakAj.culrav2k14.NitesActivity: NitesActivity()
+mnnit.vinayakAj.culrav2k14.R$anim: int abc_fade_in
+mnnit.vinayakAj.culrav2k14.R$anim: int abc_fade_out
+mnnit.vinayakAj.culrav2k14.R$anim: int abc_slide_in_bottom
+mnnit.vinayakAj.culrav2k14.R$anim: int abc_slide_in_top
+mnnit.vinayakAj.culrav2k14.R$anim: int abc_slide_out_bottom
+mnnit.vinayakAj.culrav2k14.R$anim: int abc_slide_out_top
+mnnit.vinayakAj.culrav2k14.R$array: int explore_list_icons
+mnnit.vinayakAj.culrav2k14.R$array: int nav_drawer_icons
+mnnit.vinayakAj.culrav2k14.R$array: int nav_drawer_titles
+mnnit.vinayakAj.culrav2k14.R$array: int title_tabs
+mnnit.vinayakAj.culrav2k14.R$attr: int actionBarDivider
+mnnit.vinayakAj.culrav2k14.R$attr: int actionBarItemBackground
+mnnit.vinayakAj.culrav2k14.R$attr: int actionBarSize
+mnnit.vinayakAj.culrav2k14.R$attr: int actionBarSplitStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionBarStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionBarTabBarStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionBarTabStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionBarTabTextStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionBarWidgetTheme
+mnnit.vinayakAj.culrav2k14.R$attr: int actionButtonStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionDropDownStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionLayout
+mnnit.vinayakAj.culrav2k14.R$attr: int actionMenuTextAppearance
+mnnit.vinayakAj.culrav2k14.R$attr: int actionMenuTextColor
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeBackground
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeCloseButtonStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeCloseDrawable
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeCopyDrawable
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeCutDrawable
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeFindDrawable
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModePasteDrawable
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModePopupWindowStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeSelectAllDrawable
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeShareDrawable
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeSplitBackground
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionModeWebSearchDrawable
+mnnit.vinayakAj.culrav2k14.R$attr: int actionOverflowButtonStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int actionProviderClass
+mnnit.vinayakAj.culrav2k14.R$attr: int actionViewClass
+mnnit.vinayakAj.culrav2k14.R$attr: int activityChooserViewStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int adSize
+mnnit.vinayakAj.culrav2k14.R$attr: int adSizes
+mnnit.vinayakAj.culrav2k14.R$attr: int adUnitId
+mnnit.vinayakAj.culrav2k14.R$attr: int background
+mnnit.vinayakAj.culrav2k14.R$attr: int backgroundSplit
+mnnit.vinayakAj.culrav2k14.R$attr: int backgroundStacked
+mnnit.vinayakAj.culrav2k14.R$attr: int buttonBarButtonStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int buttonBarStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int cameraBearing
+mnnit.vinayakAj.culrav2k14.R$attr: int cameraTargetLat
+mnnit.vinayakAj.culrav2k14.R$attr: int cameraTargetLng
+mnnit.vinayakAj.culrav2k14.R$attr: int cameraTilt
+mnnit.vinayakAj.culrav2k14.R$attr: int cameraZoom
+mnnit.vinayakAj.culrav2k14.R$attr: int customNavigationLayout
+mnnit.vinayakAj.culrav2k14.R$attr: int disableChildrenWhenDisabled
+mnnit.vinayakAj.culrav2k14.R$attr: int displayOptions
+mnnit.vinayakAj.culrav2k14.R$attr: int divider
+mnnit.vinayakAj.culrav2k14.R$attr: int dividerHorizontal
+mnnit.vinayakAj.culrav2k14.R$attr: int dividerPadding
+mnnit.vinayakAj.culrav2k14.R$attr: int dividerVertical
+mnnit.vinayakAj.culrav2k14.R$attr: int dropDownListViewStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int dropdownListPreferredItemHeight
+mnnit.vinayakAj.culrav2k14.R$attr: int effect
+mnnit.vinayakAj.culrav2k14.R$attr: int expandActivityOverflowButtonDrawable
+mnnit.vinayakAj.culrav2k14.R$attr: int height
+mnnit.vinayakAj.culrav2k14.R$attr: int homeAsUpIndicator
+mnnit.vinayakAj.culrav2k14.R$attr: int homeLayout
+mnnit.vinayakAj.culrav2k14.R$attr: int icon
+mnnit.vinayakAj.culrav2k14.R$attr: int iconifiedByDefault
+mnnit.vinayakAj.culrav2k14.R$attr: int indeterminateProgressStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int initialActivityCount
+mnnit.vinayakAj.culrav2k14.R$attr: int isLightTheme
+mnnit.vinayakAj.culrav2k14.R$attr: int itemPadding
+mnnit.vinayakAj.culrav2k14.R$attr: int listChoiceBackgroundIndicator
+mnnit.vinayakAj.culrav2k14.R$attr: int listPopupWindowStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int listPreferredItemHeight
+mnnit.vinayakAj.culrav2k14.R$attr: int listPreferredItemHeightLarge
+mnnit.vinayakAj.culrav2k14.R$attr: int listPreferredItemHeightSmall
+mnnit.vinayakAj.culrav2k14.R$attr: int listPreferredItemPaddingLeft
+mnnit.vinayakAj.culrav2k14.R$attr: int listPreferredItemPaddingRight
+mnnit.vinayakAj.culrav2k14.R$attr: int logo
+mnnit.vinayakAj.culrav2k14.R$attr: int mapType
+mnnit.vinayakAj.culrav2k14.R$attr: int max_velocity
+mnnit.vinayakAj.culrav2k14.R$attr: int navigationMode
+mnnit.vinayakAj.culrav2k14.R$attr: int only_animate_fling
+mnnit.vinayakAj.culrav2k14.R$attr: int only_animate_new_items
+mnnit.vinayakAj.culrav2k14.R$attr: int paddingEnd
+mnnit.vinayakAj.culrav2k14.R$attr: int paddingStart
+mnnit.vinayakAj.culrav2k14.R$attr: int panelMenuListTheme
+mnnit.vinayakAj.culrav2k14.R$attr: int panelMenuListWidth
+mnnit.vinayakAj.culrav2k14.R$attr: int popupMenuStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int popupPromptView
+mnnit.vinayakAj.culrav2k14.R$attr: int progressBarPadding
+mnnit.vinayakAj.culrav2k14.R$attr: int progressBarStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int prompt
+mnnit.vinayakAj.culrav2k14.R$attr: int queryHint
+mnnit.vinayakAj.culrav2k14.R$attr: int searchDropdownBackground
+mnnit.vinayakAj.culrav2k14.R$attr: int searchResultListItemHeight
+mnnit.vinayakAj.culrav2k14.R$attr: int searchViewAutoCompleteTextView
+mnnit.vinayakAj.culrav2k14.R$attr: int searchViewCloseIcon
+mnnit.vinayakAj.culrav2k14.R$attr: int searchViewEditQuery
+mnnit.vinayakAj.culrav2k14.R$attr: int searchViewEditQueryBackground
+mnnit.vinayakAj.culrav2k14.R$attr: int searchViewGoIcon
+mnnit.vinayakAj.culrav2k14.R$attr: int searchViewSearchIcon
+mnnit.vinayakAj.culrav2k14.R$attr: int searchViewTextField
+mnnit.vinayakAj.culrav2k14.R$attr: int searchViewTextFieldRight
+mnnit.vinayakAj.culrav2k14.R$attr: int searchViewVoiceIcon
+mnnit.vinayakAj.culrav2k14.R$attr: int selectableItemBackground
+mnnit.vinayakAj.culrav2k14.R$attr: int showAsAction
+mnnit.vinayakAj.culrav2k14.R$attr: int showDividers
+mnnit.vinayakAj.culrav2k14.R$attr: int simulate_grid_with_list
+mnnit.vinayakAj.culrav2k14.R$attr: int spinnerDropDownItemStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int spinnerMode
+mnnit.vinayakAj.culrav2k14.R$attr: int spinnerStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int subtitle
+mnnit.vinayakAj.culrav2k14.R$attr: int subtitleTextStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int textAllCaps
+mnnit.vinayakAj.culrav2k14.R$attr: int textAppearanceLargePopupMenu
+mnnit.vinayakAj.culrav2k14.R$attr: int textAppearanceListItem
+mnnit.vinayakAj.culrav2k14.R$attr: int textAppearanceListItemSmall
+mnnit.vinayakAj.culrav2k14.R$attr: int textAppearanceSearchResultSubtitle
+mnnit.vinayakAj.culrav2k14.R$attr: int textAppearanceSearchResultTitle
+mnnit.vinayakAj.culrav2k14.R$attr: int textAppearanceSmallPopupMenu
+mnnit.vinayakAj.culrav2k14.R$attr: int textColorSearchUrl
+mnnit.vinayakAj.culrav2k14.R$attr: int title
+mnnit.vinayakAj.culrav2k14.R$attr: int titleTextStyle
+mnnit.vinayakAj.culrav2k14.R$attr: int uiCompass
+mnnit.vinayakAj.culrav2k14.R$attr: int uiRotateGestures
+mnnit.vinayakAj.culrav2k14.R$attr: int uiScrollGestures
+mnnit.vinayakAj.culrav2k14.R$attr: int uiTiltGestures
+mnnit.vinayakAj.culrav2k14.R$attr: int uiZoomControls
+mnnit.vinayakAj.culrav2k14.R$attr: int uiZoomGestures
+mnnit.vinayakAj.culrav2k14.R$attr: int useViewLifecycle
+mnnit.vinayakAj.culrav2k14.R$attr: int windowActionBar
+mnnit.vinayakAj.culrav2k14.R$attr: int windowActionBarOverlay
+mnnit.vinayakAj.culrav2k14.R$attr: int windowSplitActionBar
+mnnit.vinayakAj.culrav2k14.R$attr: int zOrderOnTop
+mnnit.vinayakAj.culrav2k14.R$bool: int abc_action_bar_embed_tabs_pre_jb
+mnnit.vinayakAj.culrav2k14.R$bool: int abc_action_bar_expanded_action_views_exclusive
+mnnit.vinayakAj.culrav2k14.R$bool: int abc_config_actionMenuItemAllCaps
+mnnit.vinayakAj.culrav2k14.R$bool: int abc_config_allowActionMenuItemTextWithIcon
+mnnit.vinayakAj.culrav2k14.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
+mnnit.vinayakAj.culrav2k14.R$bool: int abc_split_action_bar_is_narrow
+mnnit.vinayakAj.culrav2k14.R$color: int abc_search_url_text_holo
+mnnit.vinayakAj.culrav2k14.R$color: int abc_search_url_text_normal
+mnnit.vinayakAj.culrav2k14.R$color: int abc_search_url_text_pressed
+mnnit.vinayakAj.culrav2k14.R$color: int abc_search_url_text_selected
+mnnit.vinayakAj.culrav2k14.R$color: int common_action_bar_splitter
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_dark_text_default
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_dark_text_disabled
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_dark_text_focused
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_dark_text_pressed
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_default_background
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_light_text_default
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_light_text_disabled
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_light_text_focused
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_light_text_pressed
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_text_dark
+mnnit.vinayakAj.culrav2k14.R$color: int common_signin_btn_text_light
+mnnit.vinayakAj.culrav2k14.R$color: int holo_blue_dark
+mnnit.vinayakAj.culrav2k14.R$color: int holo_blue_light
+mnnit.vinayakAj.culrav2k14.R$color: int holo_gray_bright
+mnnit.vinayakAj.culrav2k14.R$color: int holo_gray_cool
+mnnit.vinayakAj.culrav2k14.R$color: int holo_gray_light
+mnnit.vinayakAj.culrav2k14.R$color: int holo_green_dark
+mnnit.vinayakAj.culrav2k14.R$color: int holo_green_light
+mnnit.vinayakAj.culrav2k14.R$color: int holo_orange_dark
+mnnit.vinayakAj.culrav2k14.R$color: int holo_orange_light
+mnnit.vinayakAj.culrav2k14.R$color: int holo_pink_dark
+mnnit.vinayakAj.culrav2k14.R$color: int holo_purple_dark
+mnnit.vinayakAj.culrav2k14.R$color: int holo_purple_light
+mnnit.vinayakAj.culrav2k14.R$color: int holo_red_dark
+mnnit.vinayakAj.culrav2k14.R$color: int holo_red_light
+mnnit.vinayakAj.culrav2k14.R$color: int holo_snow
+mnnit.vinayakAj.culrav2k14.R$color: int holo_yellow_dark
+mnnit.vinayakAj.culrav2k14.R$color: int holo_yellow_light
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_bar_default_height
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_bar_icon_vertical_padding
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_bar_progress_bar_size
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_bar_stacked_max_height
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_bar_stacked_tab_max_width
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_bar_subtitle_bottom_margin
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_bar_subtitle_text_size
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_bar_subtitle_top_margin
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_bar_title_text_size
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_action_button_min_width
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_config_prefDialogWidth
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_dropdownitem_icon_width
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_dropdownitem_text_padding_left
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_dropdownitem_text_padding_right
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_panel_menu_list_width
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_search_view_preferred_width
+mnnit.vinayakAj.culrav2k14.R$dimen: int abc_search_view_text_min_width
+mnnit.vinayakAj.culrav2k14.R$dimen: int layout_land_max_width
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_bottom_solid_dark_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_bottom_solid_light_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_bottom_transparent_dark_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_bottom_transparent_light_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_share_pack_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_share_pack_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_solid_dark_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_solid_light_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_stacked_solid_dark_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_stacked_solid_light_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_stacked_transparent_dark_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_stacked_transparent_light_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_transparent_dark_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ab_transparent_light_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_cab_background_bottom_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_cab_background_bottom_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_cab_background_top_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_cab_background_top_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_ab_back_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_ab_back_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_cab_done_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_cab_done_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_clear
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_clear_disabled
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_clear_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_clear_normal
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_clear_search_api_disabled_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_clear_search_api_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_commit_search_api_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_commit_search_api_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_go
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_go_search_api_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_menu_share_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_menu_share_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_search
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_search_api_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_voice_search
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_ic_voice_search_api_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_item_background_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_item_background_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_divider_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_divider_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_focused_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_longpressed_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_pressed_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_pressed_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_selector_background_transition_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_selector_background_transition_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_selector_disabled_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_selector_disabled_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_selector_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_list_selector_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_menu_dropdown_panel_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_menu_dropdown_panel_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_menu_hardkey_panel_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_menu_hardkey_panel_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_search_dropdown_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_search_dropdown_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_default_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_default_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_disabled_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_disabled_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_focused_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_focused_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_pressed_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_spinner_ab_pressed_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_tab_indicator_ab_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_tab_selected_focused_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_tab_selected_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_tab_selected_pressed_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_tab_unselected_pressed_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_search_default_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_search_default_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_search_right_default_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_search_right_default_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_search_right_selected_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_search_right_selected_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_search_selected_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_search_selected_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_searchview_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_searchview_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_searchview_right_holo_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int abc_textfield_searchview_right_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int actionbar_background_noshadow
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_list_activated_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_list_focused_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_list_longpressed_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_list_pressed_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_list_selector_disabled_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_tab_selected_focused_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_tab_selected_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_tab_selected_pressed_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_tab_unselected_focused_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_tab_unselected_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int appthemeredlight_tab_unselected_pressed_holo
+mnnit.vinayakAj.culrav2k14.R$drawable: int arrow_right
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_disabled_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_disabled_focus_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_disabled_focus_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_disabled_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_focus_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_focus_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_normal_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_normal_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_pressed_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_icon_pressed_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_disabled_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_disabled_focus_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_disabled_focus_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_disabled_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_focus_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_focus_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_normal_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_normal_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_pressed_dark
+mnnit.vinayakAj.culrav2k14.R$drawable: int common_signin_btn_text_pressed_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int culrav_item_background_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int culrav_list_selector_background_transition_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int culrav_list_selector_holo_light
+mnnit.vinayakAj.culrav2k14.R$drawable: int drawer_shadow
+mnnit.vinayakAj.culrav2k14.R$drawable: int farhan
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_drawer_about
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_drawer_contacts
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_drawer_fb
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_drawer_home
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_drawer_map
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_drawer_web
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_anunaad
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_darkroom
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_glamstreet
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_informals
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_litmuse
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_loktarang
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_natyamanch
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_rangraaze
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_razzmatazz
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_event_srishti
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_launcher
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_logo_culrav
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_navigation_drawer
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_plusone_medium_off_client
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_plusone_small_off_client
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_plusone_standard_off_client
+mnnit.vinayakAj.culrav2k14.R$drawable: int ic_plusone_tall_off_client
+mnnit.vinayakAj.culrav2k14.R$drawable: int nites_farhan
+mnnit.vinayakAj.culrav2k14.R$drawable: int nites_kavya_desc
+mnnit.vinayakAj.culrav2k14.R$drawable: int nites_kavya_sandhya
+mnnit.vinayakAj.culrav2k14.R$drawable: int pic_jaiswal
+mnnit.vinayakAj.culrav2k14.R$drawable: int pic_mohan
+mnnit.vinayakAj.culrav2k14.R$drawable: int red_tab_indicator_holo
+mnnit.vinayakAj.culrav2k14.R$id: int act_explore_events_pager
+mnnit.vinayakAj.culrav2k14.R$id: int action_bar
+mnnit.vinayakAj.culrav2k14.R$id: int action_bar_activity_content
+mnnit.vinayakAj.culrav2k14.R$id: int action_bar_container
+mnnit.vinayakAj.culrav2k14.R$id: int action_bar_overlay_layout
+mnnit.vinayakAj.culrav2k14.R$id: int action_bar_root
+mnnit.vinayakAj.culrav2k14.R$id: int action_bar_subtitle
+mnnit.vinayakAj.culrav2k14.R$id: int action_bar_title
+mnnit.vinayakAj.culrav2k14.R$id: int action_context_bar
+mnnit.vinayakAj.culrav2k14.R$id: int action_menu_divider
+mnnit.vinayakAj.culrav2k14.R$id: int action_menu_presenter
+mnnit.vinayakAj.culrav2k14.R$id: int action_mode_close_button
+mnnit.vinayakAj.culrav2k14.R$id: int activity_chooser_view_content
+mnnit.vinayakAj.culrav2k14.R$id: int activity_stream_message
+mnnit.vinayakAj.culrav2k14.R$id: int activity_stream_title
+mnnit.vinayakAj.culrav2k14.R$id: int activity_stream_url
+mnnit.vinayakAj.culrav2k14.R$id: int always
+mnnit.vinayakAj.culrav2k14.R$id: int beginning
+mnnit.vinayakAj.culrav2k14.R$id: int cards
+mnnit.vinayakAj.culrav2k14.R$id: int category_icon
+mnnit.vinayakAj.culrav2k14.R$id: int category_title
+mnnit.vinayakAj.culrav2k14.R$id: int checkbox
+mnnit.vinayakAj.culrav2k14.R$id: int collapseActionView
+mnnit.vinayakAj.culrav2k14.R$id: int contact_button_email
+mnnit.vinayakAj.culrav2k14.R$id: int contact_button_mobile
+mnnit.vinayakAj.culrav2k14.R$id: int contact_name
+mnnit.vinayakAj.culrav2k14.R$id: int contact_position
+mnnit.vinayakAj.culrav2k14.R$id: int contacts_drawer_layout
+mnnit.vinayakAj.culrav2k14.R$id: int contacts_left_drawer
+mnnit.vinayakAj.culrav2k14.R$id: int contacts_list
+mnnit.vinayakAj.culrav2k14.R$id: int curl
+mnnit.vinayakAj.culrav2k14.R$id: int default_activity_button
+mnnit.vinayakAj.culrav2k14.R$id: int dialog
+mnnit.vinayakAj.culrav2k14.R$id: int dialog_person_jaiswal
+mnnit.vinayakAj.culrav2k14.R$id: int dialog_person_mohan
+mnnit.vinayakAj.culrav2k14.R$id: int disableHome
+mnnit.vinayakAj.culrav2k14.R$id: int dropdown
+mnnit.vinayakAj.culrav2k14.R$id: int edit_query
+mnnit.vinayakAj.culrav2k14.R$id: int end
+mnnit.vinayakAj.culrav2k14.R$id: int event_anunaad_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_anunaad_format_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_anunaad_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_anunaad_rules_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_darkroom_button_fb
+mnnit.vinayakAj.culrav2k14.R$id: int event_darkroom_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_darkroom_format_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_darkroom_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_darkroom_header_format
+mnnit.vinayakAj.culrav2k14.R$id: int event_darkroom_header_format_underline
+mnnit.vinayakAj.culrav2k14.R$id: int event_darkroom_header_rules_underline
+mnnit.vinayakAj.culrav2k14.R$id: int event_darkroom_rules_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_darkroom_rules_judging
+mnnit.vinayakAj.culrav2k14.R$id: int event_details_fragment_container
+mnnit.vinayakAj.culrav2k14.R$id: int event_glamstreet_button_fb
+mnnit.vinayakAj.culrav2k14.R$id: int event_glamstreet_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_glamstreet_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_glamstreet_rules_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_informals_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_informals_format_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_informals_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_litmuse_button_fb
+mnnit.vinayakAj.culrav2k14.R$id: int event_litmuse_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_litmuse_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_loktarang_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_loktarang_format_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_loktarang_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_loktarang_header_judging
+mnnit.vinayakAj.culrav2k14.R$id: int event_loktarang_header_judging_underline
+mnnit.vinayakAj.culrav2k14.R$id: int event_loktarang_judging_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_natyamanch_button_fb
+mnnit.vinayakAj.culrav2k14.R$id: int event_natyamanch_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_natyamanch_foramt_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_natyamanch_foramt_header_underline
+mnnit.vinayakAj.culrav2k14.R$id: int event_natyamanch_format_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_natyamanch_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_rangraaze_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_rangraaze_format_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_rangraaze_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_rangraaze_rules_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_razzmatazz_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_razzmatazz_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_razzmatazz_judging_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_razzmatazz_rules_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_srishti_description
+mnnit.vinayakAj.culrav2k14.R$id: int event_srishti_header
+mnnit.vinayakAj.culrav2k14.R$id: int event_srishti_rounds_description
+mnnit.vinayakAj.culrav2k14.R$id: int expand_activities_button
+mnnit.vinayakAj.culrav2k14.R$id: int expanded_menu
+mnnit.vinayakAj.culrav2k14.R$id: int explore_item_title
+mnnit.vinayakAj.culrav2k14.R$id: int fade
+mnnit.vinayakAj.culrav2k14.R$id: int fan
+mnnit.vinayakAj.culrav2k14.R$id: int flip
+mnnit.vinayakAj.culrav2k14.R$id: int fly
+mnnit.vinayakAj.culrav2k14.R$id: int frag_events_contact_email
+mnnit.vinayakAj.culrav2k14.R$id: int frag_events_contact_mobile
+mnnit.vinayakAj.culrav2k14.R$id: int frag_events_contact_name
+mnnit.vinayakAj.culrav2k14.R$id: int frag_events_listview
+mnnit.vinayakAj.culrav2k14.R$id: int frag_explore_list
+mnnit.vinayakAj.culrav2k14.R$id: int fragment_schedule_empty
+mnnit.vinayakAj.culrav2k14.R$id: int fragment_schedule_list
+mnnit.vinayakAj.culrav2k14.R$id: int fragment_stream_empty_text
+mnnit.vinayakAj.culrav2k14.R$id: int fragment_stream_list
+mnnit.vinayakAj.culrav2k14.R$id: int grow
+mnnit.vinayakAj.culrav2k14.R$id: int helix
+mnnit.vinayakAj.culrav2k14.R$id: int home
+mnnit.vinayakAj.culrav2k14.R$id: int homeAsUp
+mnnit.vinayakAj.culrav2k14.R$id: int home_drawer_layout
+mnnit.vinayakAj.culrav2k14.R$id: int home_left_drawer
+mnnit.vinayakAj.culrav2k14.R$id: int hybrid
+mnnit.vinayakAj.culrav2k14.R$id: int icon
+mnnit.vinayakAj.culrav2k14.R$id: int ifRoom
+mnnit.vinayakAj.culrav2k14.R$id: int image
+mnnit.vinayakAj.culrav2k14.R$id: int listMode
+mnnit.vinayakAj.culrav2k14.R$id: int list_item
+mnnit.vinayakAj.culrav2k14.R$id: int map
+mnnit.vinayakAj.culrav2k14.R$id: int map_action_hybrid
+mnnit.vinayakAj.culrav2k14.R$id: int map_action_normal
+mnnit.vinayakAj.culrav2k14.R$id: int map_drawer_layout
+mnnit.vinayakAj.culrav2k14.R$id: int map_left_drawer
+mnnit.vinayakAj.culrav2k14.R$id: int middle
+mnnit.vinayakAj.culrav2k14.R$id: int never
+mnnit.vinayakAj.culrav2k14.R$id: int nite_pic_farhan
+mnnit.vinayakAj.culrav2k14.R$id: int nite_pic_kavya_sandhya
+mnnit.vinayakAj.culrav2k14.R$id: int none
+mnnit.vinayakAj.culrav2k14.R$id: int normal
+mnnit.vinayakAj.culrav2k14.R$id: int pager
+mnnit.vinayakAj.culrav2k14.R$id: int pager_tab_strip
+mnnit.vinayakAj.culrav2k14.R$id: int progress_circular
+mnnit.vinayakAj.culrav2k14.R$id: int progress_horizontal
+mnnit.vinayakAj.culrav2k14.R$id: int radio
+mnnit.vinayakAj.culrav2k14.R$id: int reverse_fly
+mnnit.vinayakAj.culrav2k14.R$id: int satellite
+mnnit.vinayakAj.culrav2k14.R$id: int schedule_item_subtitle
+mnnit.vinayakAj.culrav2k14.R$id: int schedule_item_time
+mnnit.vinayakAj.culrav2k14.R$id: int schedule_item_title
+mnnit.vinayakAj.culrav2k14.R$id: int search_badge
+mnnit.vinayakAj.culrav2k14.R$id: int search_bar
+mnnit.vinayakAj.culrav2k14.R$id: int search_button
+mnnit.vinayakAj.culrav2k14.R$id: int search_close_btn
+mnnit.vinayakAj.culrav2k14.R$id: int search_edit_frame
+mnnit.vinayakAj.culrav2k14.R$id: int search_go_btn
+mnnit.vinayakAj.culrav2k14.R$id: int search_mag_icon
+mnnit.vinayakAj.culrav2k14.R$id: int search_plate
+mnnit.vinayakAj.culrav2k14.R$id: int search_src_text
+mnnit.vinayakAj.culrav2k14.R$id: int search_voice_btn
+mnnit.vinayakAj.culrav2k14.R$id: int shortcut
+mnnit.vinayakAj.culrav2k14.R$id: int showCustom
+mnnit.vinayakAj.culrav2k14.R$id: int showHome
+mnnit.vinayakAj.culrav2k14.R$id: int showTitle
+mnnit.vinayakAj.culrav2k14.R$id: int slide_in
+mnnit.vinayakAj.culrav2k14.R$id: int split_action_bar
+mnnit.vinayakAj.culrav2k14.R$id: int standard
+mnnit.vinayakAj.culrav2k14.R$id: int stream_detail
+mnnit.vinayakAj.culrav2k14.R$id: int stream_item_clickable
+mnnit.vinayakAj.culrav2k14.R$id: int stream_item_subtitle
+mnnit.vinayakAj.culrav2k14.R$id: int stream_item_title
+mnnit.vinayakAj.culrav2k14.R$id: int submit_area
+mnnit.vinayakAj.culrav2k14.R$id: int tabMode
+mnnit.vinayakAj.culrav2k14.R$id: int terrain
+mnnit.vinayakAj.culrav2k14.R$id: int tilt
+mnnit.vinayakAj.culrav2k14.R$id: int title
+mnnit.vinayakAj.culrav2k14.R$id: int top_action_bar
+mnnit.vinayakAj.culrav2k14.R$id: int twirl
+mnnit.vinayakAj.culrav2k14.R$id: int up
+mnnit.vinayakAj.culrav2k14.R$id: int useLogo
+mnnit.vinayakAj.culrav2k14.R$id: int wave
+mnnit.vinayakAj.culrav2k14.R$id: int withText
+mnnit.vinayakAj.culrav2k14.R$id: int zipper
+mnnit.vinayakAj.culrav2k14.R$integer: int abc_max_action_buttons
+mnnit.vinayakAj.culrav2k14.R$integer: int google_play_services_version
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_bar_decor
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_bar_decor_include
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_bar_decor_overlay
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_bar_home
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_bar_tab
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_bar_tabbar
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_bar_title_item
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_bar_view_list_nav_layout
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_menu_item_layout
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_menu_layout
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_mode_bar
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_action_mode_close_item
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_activity_chooser_view
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_activity_chooser_view_include
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_activity_chooser_view_list_item
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_expanded_menu_layout
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_list_menu_item_checkbox
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_list_menu_item_icon
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_list_menu_item_layout
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_list_menu_item_radio
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_popup_menu_item_layout
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_search_dropdown_item_icons_2line
+mnnit.vinayakAj.culrav2k14.R$layout: int abc_search_view
+mnnit.vinayakAj.culrav2k14.R$layout: int activity_contacts
+mnnit.vinayakAj.culrav2k14.R$layout: int activity_event_details
+mnnit.vinayakAj.culrav2k14.R$layout: int activity_explore_events
+mnnit.vinayakAj.culrav2k14.R$layout: int activity_home_ui
+mnnit.vinayakAj.culrav2k14.R$layout: int activity_map
+mnnit.vinayakAj.culrav2k14.R$layout: int activity_nites_kavya_sandhya
+mnnit.vinayakAj.culrav2k14.R$layout: int activity_nites_pro_nite
+mnnit.vinayakAj.culrav2k14.R$layout: int activity_stream_message
+mnnit.vinayakAj.culrav2k14.R$layout: int dialog_about
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_anunaad
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_darkroom
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_glamstreet
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_informals
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_litmuse
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_loktarang
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_natyamanch
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_rangsaazi
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_razzmatazz
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_event_srishti
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_events_contact
+mnnit.vinayakAj.culrav2k14.R$layout: int frag_events_list
+mnnit.vinayakAj.culrav2k14.R$layout: int fragment_explore
+mnnit.vinayakAj.culrav2k14.R$layout: int fragment_nites
+mnnit.vinayakAj.culrav2k14.R$layout: int fragment_schedule
+mnnit.vinayakAj.culrav2k14.R$layout: int fragment_stream
+mnnit.vinayakAj.culrav2k14.R$layout: int list_item_category
+mnnit.vinayakAj.culrav2k14.R$layout: int list_item_contact
+mnnit.vinayakAj.culrav2k14.R$layout: int list_item_drawer
+mnnit.vinayakAj.culrav2k14.R$layout: int list_item_explore
+mnnit.vinayakAj.culrav2k14.R$layout: int list_item_schedule
+mnnit.vinayakAj.culrav2k14.R$layout: int list_item_stream
+mnnit.vinayakAj.culrav2k14.R$layout: int support_simple_spinner_dropdown_item
+mnnit.vinayakAj.culrav2k14.R$menu: int map
+mnnit.vinayakAj.culrav2k14.R$string: int abc_action_bar_home_description
+mnnit.vinayakAj.culrav2k14.R$string: int abc_action_bar_up_description
+mnnit.vinayakAj.culrav2k14.R$string: int abc_action_menu_overflow_description
+mnnit.vinayakAj.culrav2k14.R$string: int abc_action_mode_done
+mnnit.vinayakAj.culrav2k14.R$string: int abc_activity_chooser_view_see_all
+mnnit.vinayakAj.culrav2k14.R$string: int abc_activitychooserview_choose_application
+mnnit.vinayakAj.culrav2k14.R$string: int abc_searchview_description_clear
+mnnit.vinayakAj.culrav2k14.R$string: int abc_searchview_description_query
+mnnit.vinayakAj.culrav2k14.R$string: int abc_searchview_description_search
+mnnit.vinayakAj.culrav2k14.R$string: int abc_searchview_description_submit
+mnnit.vinayakAj.culrav2k14.R$string: int abc_searchview_description_voice
+mnnit.vinayakAj.culrav2k14.R$string: int abc_shareactionprovider_share_with
+mnnit.vinayakAj.culrav2k14.R$string: int abc_shareactionprovider_share_with_application
+mnnit.vinayakAj.culrav2k14.R$string: int about_person_1
+mnnit.vinayakAj.culrav2k14.R$string: int about_person_2
+mnnit.vinayakAj.culrav2k14.R$string: int about_presented_by
+mnnit.vinayakAj.culrav2k14.R$string: int app_name
+mnnit.vinayakAj.culrav2k14.R$string: int auth_client_needs_enabling_title
+mnnit.vinayakAj.culrav2k14.R$string: int auth_client_needs_installation_title
+mnnit.vinayakAj.culrav2k14.R$string: int auth_client_needs_update_title
+mnnit.vinayakAj.culrav2k14.R$string: int auth_client_play_services_err_notification_msg
+mnnit.vinayakAj.culrav2k14.R$string: int auth_client_requested_by_msg
+mnnit.vinayakAj.culrav2k14.R$string: int auth_client_using_bad_version_title
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_enable_button
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_enable_text
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_enable_title
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_install_button
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_install_text_phone
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_install_text_tablet
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_install_title
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_invalid_account_text
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_invalid_account_title
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_network_error_text
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_network_error_title
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_unknown_issue
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_unsupported_date_text
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_unsupported_text
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_unsupported_title
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_update_button
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_update_text
+mnnit.vinayakAj.culrav2k14.R$string: int common_google_play_services_update_title
+mnnit.vinayakAj.culrav2k14.R$string: int common_signin_button_text
+mnnit.vinayakAj.culrav2k14.R$string: int common_signin_button_text_long
+mnnit.vinayakAj.culrav2k14.R$string: int drawer_close
+mnnit.vinayakAj.culrav2k14.R$string: int drawer_open
+mnnit.vinayakAj.culrav2k14.R$string: int dummy
+mnnit.vinayakAj.culrav2k14.R$string: int error_config
+mnnit.vinayakAj.culrav2k14.R$string: int event_fb
+mnnit.vinayakAj.culrav2k14.R$string: int event_format
+mnnit.vinayakAj.culrav2k14.R$string: int event_judging
+mnnit.vinayakAj.culrav2k14.R$string: int event_rounds
+mnnit.vinayakAj.culrav2k14.R$string: int event_rules
+mnnit.vinayakAj.culrav2k14.R$string: int fragment_explore
+mnnit.vinayakAj.culrav2k14.R$string: int fragment_nites
+mnnit.vinayakAj.culrav2k14.R$string: int fragment_schedule
+mnnit.vinayakAj.culrav2k14.R$string: int fragment_schedule_empty
+mnnit.vinayakAj.culrav2k14.R$string: int fragment_stream
+mnnit.vinayakAj.culrav2k14.R$string: int fragment_stream_empty
+mnnit.vinayakAj.culrav2k14.R$string: int gcm_deleted
+mnnit.vinayakAj.culrav2k14.R$string: int gcm_registered
+mnnit.vinayakAj.culrav2k14.R$string: int gcm_unregistered
+mnnit.vinayakAj.culrav2k14.R$string: int gcm_unsupported
+mnnit.vinayakAj.culrav2k14.R$string: int gcm_unsupported_cntd
+mnnit.vinayakAj.culrav2k14.R$string: int got_last_location
+mnnit.vinayakAj.culrav2k14.R$string: int home_action_bgdata
+mnnit.vinayakAj.culrav2k14.R$string: int map_action_geo
+mnnit.vinayakAj.culrav2k14.R$string: int map_action_gps
+mnnit.vinayakAj.culrav2k14.R$string: int map_action_hybrid
+mnnit.vinayakAj.culrav2k14.R$string: int nite_farhan_desc
+mnnit.vinayakAj.culrav2k14.R$string: int nite_kavya_desc
+mnnit.vinayakAj.culrav2k14.R$string: int nite_title_farhan
+mnnit.vinayakAj.culrav2k14.R$string: int nite_title_kavya_sandhya
+mnnit.vinayakAj.culrav2k14.R$string: int scheduleReset
+mnnit.vinayakAj.culrav2k14.R$string: int streamReset
+mnnit.vinayakAj.culrav2k14.R$string: int stream_link
+mnnit.vinayakAj.culrav2k14.R$string: int title_activity_contacts
+mnnit.vinayakAj.culrav2k14.R$string: int title_activity_explore_events
+mnnit.vinayakAj.culrav2k14.R$string: int title_activity_map
+mnnit.vinayakAj.culrav2k14.R$string: int title_activity_nites
+mnnit.vinayakAj.culrav2k14.R$string: int title_activity_stream_message
+mnnit.vinayakAj.culrav2k14.R$style: int Culrav_Event_Header
+mnnit.vinayakAj.culrav2k14.R$style: int Culrav_Event_Section
+mnnit.vinayakAj.culrav2k14.R$style: int Culrav_Event_Section_Divider
+mnnit.vinayakAj.culrav2k14.R$style: int Culrav_Event_Text
+mnnit.vinayakAj.culrav2k14.R$style: int CulravActionBar
+mnnit.vinayakAj.culrav2k14.R$style: int CulravActionBar_TabText
+mnnit.vinayakAj.culrav2k14.R$style: int CulravActionBar_TabView
+mnnit.vinayakAj.culrav2k14.R$style: int CulravActionBar_TitleText
+mnnit.vinayakAj.culrav2k14.R$style: int CulravBaseTheme
+mnnit.vinayakAj.culrav2k14.R$style: int CulravEventLayout
+mnnit.vinayakAj.culrav2k14.R$style: int CulravEventScroller
+mnnit.vinayakAj.culrav2k14.R$style: int CulravTheme
+mnnit.vinayakAj.culrav2k14.R$style: int CulravTheme_Map
+mnnit.vinayakAj.culrav2k14.R$style: int ListItemSubtitle
+mnnit.vinayakAj.culrav2k14.R$style: int ListItemTitle
+mnnit.vinayakAj.culrav2k14.R$style: int NitesImage
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Base_CompactMenu_Dialog
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Base_SearchResult
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Base_SearchResult_Subtitle
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Base_SearchResult_Title
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Large
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Small
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Subtitle
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Title
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Large
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Small
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Light_SearchResult_Subtitle
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Light_SearchResult_Title
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_SearchResult_Subtitle
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_SearchResult_Title
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Menu
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Menu
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_Base_DropDownItem
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_DropDownItem
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Large
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Small
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item
+mnnit.vinayakAj.culrav2k14.R$style: int TextAppearance_Widget_AppCompat_ExpandedMenu_Item
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_AppCompat
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_AppCompat_Base_CompactMenu
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_AppCompat_Base_CompactMenu_Dialog
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_AppCompat_CompactMenu
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_AppCompat_CompactMenu_Dialog
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_AppCompat_Light
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_AppCompat_Light_DarkActionBar
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_Base
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_Base_AppCompat
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_Base_AppCompat_Light
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_Base_AppCompat_Light_DarkActionBar
+mnnit.vinayakAj.culrav2k14.R$style: int Theme_Base_Light
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActionBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActionBar_Solid
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActionBar_TabBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActionBar_TabText
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActionBar_TabView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActionButton
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActionButton_CloseMode
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActionButton_Overflow
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActionMode
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ActivityChooserView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_AutoCompleteTextView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActionBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActionBar_Solid
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActionBar_TabBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActionBar_TabText
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActionBar_TabView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActionButton
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActionButton_CloseMode
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActionButton_Overflow
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActionMode
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ActivityChooserView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_AutoCompleteTextView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_DropDownItem_Spinner
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ListPopupWindow
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ListView_DropDown
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ListView_Menu
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_PopupMenu
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ProgressBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_ProgressBar_Horizontal
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Base_Spinner
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_DropDownItem_Spinner
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionBar_Solid
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionBar_Solid_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionBar_TabBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionBar_TabBar_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionBar_TabText
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionBar_TabText_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionBar_TabView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionBar_TabView_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionButton
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionButton_CloseMode
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionButton_Overflow
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActionMode_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ActivityChooserView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_AutoCompleteTextView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionButton
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionButton_CloseMode
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionButton_Overflow
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActionMode_Inverse
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ActivityChooserView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_AutoCompleteTextView
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_DropDownItem_Spinner
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ListPopupWindow
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_ListView_DropDown
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_PopupMenu
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Base_Spinner
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_DropDownItem_Spinner
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ListPopupWindow
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_ListView_DropDown
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_PopupMenu
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Light_Spinner_DropDown_ActionBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ListPopupWindow
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ListView_DropDown
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ListView_Menu
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_PopupMenu
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ProgressBar
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_ProgressBar_Horizontal
+mnnit.vinayakAj.culrav2k14.R$style: int Widget_AppCompat_Spinner_DropDown_ActionBar
+mnnit.vinayakAj.culrav2k14.R$style: int fb_button
+mnnit.vinayakAj.culrav2k14.R$style: int item_person_view
+mnnit.vinayakAj.culrav2k14.R$style: int items_list_view
+mnnit.vinayakAj.culrav2k14.R$style: int navigation_drawer
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] ActionBar
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_background
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_backgroundSplit
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_backgroundStacked
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_customNavigationLayout
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_displayOptions
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_divider
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_height
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_homeLayout
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_icon
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_indeterminateProgressStyle
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_itemPadding
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_logo
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_navigationMode
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_progressBarPadding
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_progressBarStyle
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_subtitle
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_subtitleTextStyle
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_title
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBar_titleTextStyle
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] ActionBarLayout
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBarLayout_android_layout_gravity
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] ActionBarWindow
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBarWindow_windowActionBar
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBarWindow_windowActionBarOverlay
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionBarWindow_windowSplitActionBar
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] ActionMenuItemView
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionMenuItemView_android_minWidth
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] ActionMenuView
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] ActionMode
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionMode_background
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionMode_backgroundSplit
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionMode_height
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionMode_subtitleTextStyle
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActionMode_titleTextStyle
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] ActivityChooserView
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActivityChooserView_expandActivityOverflowButtonDrawable
+mnnit.vinayakAj.culrav2k14.R$styleable: int ActivityChooserView_initialActivityCount
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] AdsAttrs
+mnnit.vinayakAj.culrav2k14.R$styleable: int AdsAttrs_adSize
+mnnit.vinayakAj.culrav2k14.R$styleable: int AdsAttrs_adSizes
+mnnit.vinayakAj.culrav2k14.R$styleable: int AdsAttrs_adUnitId
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] CompatTextView
+mnnit.vinayakAj.culrav2k14.R$styleable: int CompatTextView_textAllCaps
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] JazzyListView
+mnnit.vinayakAj.culrav2k14.R$styleable: int JazzyListView_effect
+mnnit.vinayakAj.culrav2k14.R$styleable: int JazzyListView_max_velocity
+mnnit.vinayakAj.culrav2k14.R$styleable: int JazzyListView_only_animate_fling
+mnnit.vinayakAj.culrav2k14.R$styleable: int JazzyListView_only_animate_new_items
+mnnit.vinayakAj.culrav2k14.R$styleable: int JazzyListView_simulate_grid_with_list
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] LinearLayoutICS
+mnnit.vinayakAj.culrav2k14.R$styleable: int LinearLayoutICS_divider
+mnnit.vinayakAj.culrav2k14.R$styleable: int LinearLayoutICS_dividerPadding
+mnnit.vinayakAj.culrav2k14.R$styleable: int LinearLayoutICS_showDividers
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] MapAttrs
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_cameraBearing
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_cameraTargetLat
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_cameraTargetLng
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_cameraTilt
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_cameraZoom
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_mapType
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_uiCompass
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_uiRotateGestures
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_uiScrollGestures
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_uiTiltGestures
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_uiZoomControls
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_uiZoomGestures
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_useViewLifecycle
+mnnit.vinayakAj.culrav2k14.R$styleable: int MapAttrs_zOrderOnTop
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] MenuGroup
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuGroup_android_checkableBehavior
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuGroup_android_enabled
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuGroup_android_id
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuGroup_android_menuCategory
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuGroup_android_orderInCategory
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuGroup_android_visible
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] MenuItem
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_actionLayout
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_actionProviderClass
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_actionViewClass
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_alphabeticShortcut
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_checkable
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_checked
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_enabled
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_icon
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_id
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_menuCategory
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_numericShortcut
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_onClick
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_orderInCategory
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_title
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_titleCondensed
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_android_visible
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuItem_showAsAction
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] MenuView
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuView_android_headerBackground
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuView_android_horizontalDivider
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuView_android_itemBackground
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuView_android_itemIconDisabledAlpha
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuView_android_itemTextAppearance
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuView_android_preserveIconSpacing
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuView_android_verticalDivider
+mnnit.vinayakAj.culrav2k14.R$styleable: int MenuView_android_windowAnimationStyle
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] SearchView
+mnnit.vinayakAj.culrav2k14.R$styleable: int SearchView_android_imeOptions
+mnnit.vinayakAj.culrav2k14.R$styleable: int SearchView_android_inputType
+mnnit.vinayakAj.culrav2k14.R$styleable: int SearchView_android_maxWidth
+mnnit.vinayakAj.culrav2k14.R$styleable: int SearchView_iconifiedByDefault
+mnnit.vinayakAj.culrav2k14.R$styleable: int SearchView_queryHint
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] Spinner
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_android_dropDownHorizontalOffset
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_android_dropDownSelector
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_android_dropDownVerticalOffset
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_android_dropDownWidth
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_android_gravity
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_android_popupBackground
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_disableChildrenWhenDisabled
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_popupPromptView
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_prompt
+mnnit.vinayakAj.culrav2k14.R$styleable: int Spinner_spinnerMode
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] Theme
+mnnit.vinayakAj.culrav2k14.R$styleable: int Theme_actionDropDownStyle
+mnnit.vinayakAj.culrav2k14.R$styleable: int Theme_dropdownListPreferredItemHeight
+mnnit.vinayakAj.culrav2k14.R$styleable: int Theme_listChoiceBackgroundIndicator
+mnnit.vinayakAj.culrav2k14.R$styleable: int Theme_panelMenuListTheme
+mnnit.vinayakAj.culrav2k14.R$styleable: int Theme_panelMenuListWidth
+mnnit.vinayakAj.culrav2k14.R$styleable: int Theme_popupMenuStyle
+mnnit.vinayakAj.culrav2k14.R$styleable: int[] View
+mnnit.vinayakAj.culrav2k14.R$styleable: int View_android_focusable
+mnnit.vinayakAj.culrav2k14.R$styleable: int View_paddingEnd
+mnnit.vinayakAj.culrav2k14.R$styleable: int View_paddingStart
+mnnit.vinayakAj.culrav2k14.StreamMessageActivity
+mnnit.vinayakAj.culrav2k14.StreamMessageActivity: StreamMessageActivity()
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: JazzyListView(android.content.Context)
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: JazzyListView(android.content.Context,android.util.AttributeSet)
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: JazzyListView(android.content.Context,android.util.AttributeSet,int)
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: void setOnScrollListener(android.widget.AbsListView$OnScrollListener)
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: void setTransitionEffect(int)
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: void setTransitionEffect(mnnit.vinayakAj.culrav2k14.animations.JazzyEffect)
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: void setShouldOnlyAnimateNewItems(boolean)
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: void setShouldOnlyAnimateFling(boolean)
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: void setMaxAnimationVelocity(int)
+mnnit.vinayakAj.culrav2k14.animations.JazzyListView: void setSimulateGridWithList(boolean)
+mnnit.vinayakAj.culrav2k14.util.ContactsListView
+mnnit.vinayakAj.culrav2k14.util.ContactsListView: ContactsListView(android.content.Context,android.util.AttributeSet)
+mnnit.vinayakAj.culrav2k14.util.ContactsListView: void setAdapter(android.widget.Adapter)
+mnnit.vinayakAj.culrav2k14.util.ContactsListView: android.widget.Adapter getAdapter()
+mnnit.vinayakAj.culrav2k14.util.ContactsListView: void setSelection(int)
+mnnit.vinayakAj.culrav2k14.util.ContactsListView: android.view.View getSelectedView()
+mnnit.vinayakAj.culrav2k14.util.ContactsListView: void setDynamics(mnnit.vinayakAj.culrav2k14.util.ContactsDynamics)
+mnnit.vinayakAj.culrav2k14.util.ContactsListView: android.view.View getCachedView()

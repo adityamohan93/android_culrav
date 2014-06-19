@@ -1,0 +1,74 @@
+{
+	"NatyaManch":[
+	{
+		"eventID":"0500",
+		"event":"Workshop",
+		"description":"APRIL 08\nMP HALL\n\nAnupam Kher, the Bollywood star and Padma Shree laureate with an acclaimed acting career spanning decades, shall conduct a workshop on theatrics and stagecraft.\n\nFurther details shall be provided soon.",
+		"format":[
+			""
+		]
+	},
+	{
+		"eventID":"0501",
+		"event":"Rang Manch",
+		"description": "'Acting was a way out at first. A way out of not knowing what to do, a way of focusing ambitions. And the ambition wasn't for fame. The ambition was to do an interesting job.'
+		
+		Rang Manch is a collaborative form of fine art that uses live performers to present the experience of a real or imagined event before a live audience in a specific place. The right combination of 'Lights', 'Camera' & most importantly 'Action'. Various genres are Comedy, Farce, Satirical, Tragedy & Historical.",
+		"format":[
+			"1. Maximum team limit is 17",
+			"2. Time limit for Rang Manch is 45 minutes per team, to be followed STRICTLY!",
+			"3. Only the teams that qualify the eliminations will be performing on the final day. Date of elimination and the number of teams that will qualify, will be notified later."
+		]
+	},
+	{
+		"eventID": "0502",
+		"event": "Nukkad Natak",
+		"description": "'Movies will make you famous; Television will make you rich; But theatre will make you good.'
+		
+		Nukkad represents Street Theatre. It is theatre for a cause. It is one of the oldest forms of theatre existing mostly in India, performed basically in outdoor public spaces. It targets the common man and makes an effort for upliftment of society by spreading awareness and propagating the morals and ideals that society is in need of.",
+		"format": [
+			"1. Maximum team limit is 17",
+			"2. Time limit for Nukkad Natak is 45 minutes per team, to be followed STRICTLY!",
+			"3. Only the teams that qualify the eliminations will be performing on the final day. Date of elimination and the number of teams that will qualify, will be notified later.",
+			"4. Any instrument used by the teams should be played only by a team member and not hired professionals"
+		]
+	},
+	{
+		"eventID": "0503",
+		"event": "Nautanki",
+		"description": "'The test of true comedy is that it should awaken thoughtful laughter.'
+		
+		Comedy is simply a funny way of being serious. Nautanki is a comedy play event. Come, participate, entertain and leave behind a crowd with tears of laughter.",
+		"format": [
+			"1. It is a comedy play event",
+			"2. Maximum team limit is 17",
+			"3. Time limit for Nautanki is 20 minutes per team, to be followed STRICTLY!",
+			"4. Only the teams that qualify the eliminations will be performing on the final day. Date of elimination and the number of teams that will qualify, will be notified later."
+		]
+	},
+	{
+		"eventID": "0504",
+		"event": "Q-tiyapa",
+		"description": "Sarcasm... because killing people is illegal..!!!
+		
+		Have you ever watched a parody or spoof on Youtube??? Well, its time you make one. Q-tiyapa is a spoof play event. Give your sarcasm and creativity a mix and the audience just might like it!",
+		"format": [
+			"1. It is a comedy play event",
+			"2. Maximum team limit is 8",
+			"3. Time limit for Q-tiyapa is 15 minutes per team, to be followed STRICTLY!",
+			"4. No eliminations?."
+		]
+	},
+	{
+		"eventID": "0505",
+		"event": "Chalchitra",
+		"description": "Chalchitra is a documentary film making event. 'Documentary' has been described as a 'filmmaking practice, a cinematic tradition, and mode of audience reception' that is continually evolving and is without clear boundaries. It is a nonfictional motion picture intended to document some aspect of reality.",
+		"format": [
+			"1. In this event teams have to submit a Documentary",
+			"2. Maximum team limit is 8",
+			"3. Time limit for Chalchitra is 20 minutes per team, to be followed STRICTLY!",
+			"4. The final date for submission of the documentaries and the mode of submission would be notified later"
+		]
+	}
+	]
+}

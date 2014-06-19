@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/background_light" >
+    
+    <TextView android:id="@+id/activity_stream_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        android:background="@color/holo_green_light"
+        android:textColor="@android:color/white"
+        android:textSize="22sp"
+        android:gravity="center" />
+    
+    <ScrollView
+        android:layout_width="@dimen/layout_land_max_width"
+    	android:layout_gravity="center_horizontal"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="16dp"
+        android:scrollbarStyle="outsideOverlay" >
+        
+        <TextView android:id="@+id/activity_stream_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="24sp"
+            android:textColor="@color/holo_blue_dark" />
+    </ScrollView>
+    
+    <Button
+        android:id="@+id/activity_stream_url"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="54dp"
+        android:textColor="@color/holo_red_dark"
+        android:background="@color/holo_gray_light"
+        android:textSize="24sp"
+        android:visibility="gone"
+        android:textStyle="bold"
+        android:text="@string/stream_link" />
+</LinearLayout>

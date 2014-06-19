@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"    
+    android:orientation="vertical"
+    android:background="@android:color/background_dark"    
+    tools:context=".NitesActivity" >
+    
+    <TextView        
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:background="@color/holo_red_light"
+        android:textSize="20sp"
+        android:textAllCaps="true" 
+        android:text="@string/nite_title_kavya_sandhya"/>
+    
+    <ScrollView
+        android:layout_width="@dimen/layout_land_max_width"
+    	android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:scrollbarStyle="outsideOverlay" >
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:drawableTop="@drawable/nites_kavya_desc"            
+            android:textSize="24sp"
+            android:textColor="@android:color/primary_text_dark"
+            android:text="@string/nite_kavya_desc" />
+	</ScrollView>
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CulravEventLayout"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/event_litmuse_header"
+        style="@style/Culrav.Event.Header"
+        android:background="@color/holo_blue_light" />
+    
+    <ScrollView
+        android:layout_width="@dimen/layout_land_max_width"
+    	android:layout_gravity="center_horizontal"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbarStyle="outsideOverlay" >
+        
+        <LinearLayout
+            style="@style/CulravEventScroller" >
+            
+            <TextView
+        		android:id="@+id/event_litmuse_description"
+        		style="@style/Culrav.Event.Text" />
+                        
+		</LinearLayout>
+	</ScrollView> 
+	
+    <Button
+        android:id="@+id/event_litmuse_button_fb"
+        style="@style/fb_button"
+        android:textColor="@color/holo_blue_dark" />
+</LinearLayout>

@@ -1,0 +1,21 @@
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"    
+    android:id="@+id/contacts_drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:splitMotionEvents="false"
+    tools:context=".ContactsActivity" >
+                                           
+    <mnnit.vinayakAj.culrav2k14.util.ContactsListView
+        android:id="@+id/contacts_list"
+        android:layout_width="@dimen/layout_land_max_width"        
+    	android:layout_height="match_parent"    
+    	android:splitMotionEvents="false"	    
+    	android:background="@android:color/background_light" />              
+        
+    <ListView
+        android:id="@+id/contacts_left_drawer"
+        style="@style/navigation_drawer" />
+    
+</android.support.v4.widget.DrawerLayout>

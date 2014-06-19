@@ -1,0 +1,280 @@
+{
+	"Schedules":[
+	{		
+		"day": 301,
+		"time": "3 Apr\n4:00 pm",
+		"title": "Opening Ceremony",
+		"subtitle": "MP Hall"
+	},
+	{		
+		"day": 302,
+		"time": "3 Apr\n6:00 pm",
+		"title": "Kavya Sandhya",
+		"subtitle": "MP Hall"
+	},
+	{		
+		"day": 401,
+		"time": "4 Apr\n9:00 am",
+		"title": "Voice of Culrav round 1 (Audition)",
+		"subtitle": "Seminar Hall"		
+	},
+	{		
+		"day": 402,
+		"time": "4 Apr\n9:00 am",
+		"title": "Stage Play (Rang Manch)",
+		"subtitle": "MP Hall"
+	},
+	{		
+		"day": 403,
+		"time": "4 Apr\n10:30 am",
+		"title": "Just A Minute",
+		"subtitle": "New Lecture Hall 1"		
+	},
+	{		
+		"day": 404,
+		"time": "4 Apr\n11:00 am",
+		"title": "Classical Dance (SOLO)",
+		"subtitle": "Seminar Hall"
+	},	
+	{
+		"day": 405,
+		"time": "4 Apr\n11:00 am",
+		"title": "Rachna (Hindi Lit)",
+		"subtitle": "Lecture Hall 1 (LH1)"
+	},
+	{
+		"day": 406,
+		"time": "4 Apr\n12:00 pm",
+		"title": "Scrap Art",
+		"subtitle": "Whole College"
+	},
+	{
+		"day": 407,
+		"time": "4 Apr\n2:00 pm",
+		"title": "Classical Dance (Professional Troops)",
+		"subtitle": "Seminar Hall"
+	},
+	{
+		"day": 408,
+		"time": "4 Apr\n3:00 pm",
+		"title": "Shabd",
+		"subtitle": "Lecture Hall 1 (LH1)"
+	},
+	{
+		"day": 409,
+		"time": "4 Apr\n4:00 pm",
+		"title": "Creative Writing",
+		"subtitle": "GS Hall 8"
+	},
+	{
+		"day": 410,
+		"time": "4 Apr\n6:00 pm",
+		"title": "Rachna (Music)",
+		"subtitle": "Seminar Hall"
+	},		
+	{
+		"day": 411,
+		"time": "4 Apr\n6:00 pm",
+		"title": "Folk Dance (Groups)",
+		"subtitle": ""
+	},
+	{
+		"day": 501,
+		"time": "5 Apr\n8:00 am",
+		"title": "Voice of Culrav Round 2 Rehearsals",
+		"subtitle": ""
+	},	
+	{
+		"day": 502,
+		"time": "5 Apr\n9:00 am",
+		"title": "Nukkad",
+		"subtitle": "Outside MP Hall"
+	},
+	{
+		"day": 503,
+		"time": "5 Apr\n10:30 am",
+		"title": "Spell Bee",
+		"subtitle": "New Lecture Hall 1 (NLH1)"
+	},
+	{
+		"day": 504,
+		"time": "5 Apr\n12:00 pm",
+		"title": "Goonj (Hindi Lit)",
+		"subtitle": "Lecture Hall 1 (LH1)"
+	},
+	{
+		"day": 505,
+		"time": "5 Apr\n1:00 pm",
+		"title": "Group Dance (Western)",
+		"subtitle": "MP Hall"
+	},
+	{
+		"day": 506,
+		"time": "5 Apr\n2:00 pm",
+		"title": "Rhythm",
+		"subtitle": "Seminar Hall"
+	},
+	{
+		"day": 507,
+		"time": "5 Apr\n3:00 pm",
+		"title": "Debate",
+		"subtitle": "New Lecture Hall 1 (NLH1)"
+	},	
+	{
+		"day": 508,
+		"time": "5 Apr\n3:00 pm",
+		"title": "Three Scoops",
+		"subtitle": "NLH2 & GS Rooms"
+	},		
+	{
+		"day": 509,
+		"time": "5 Apr\n6:00 pm",
+		"title": "Celebrity Pro Nite",
+		"subtitle": "Football Ground"
+	},
+	{
+		"day": 601,
+		"time": "6 Apr\n9:00 am",
+		"title": "Voice of Culrav Round 2 (Audition)",
+		"subtitle": "Seminar Hall"
+	},
+	{
+		"day": 602,
+		"time": "6 Apr\n9:00 am",
+		"title": "Dumb Charades",
+		"subtitle": "GS 8"
+	},
+	{
+		"day": 603,
+		"time": "6 Apr\n10:00 am",
+		"title": "Chakravyuh",
+		"subtitle": "Lecture Hall 1,2,3,4,5,6"
+	},
+	{
+		"day": 604,
+		"time": "6 Apr\n10:00 am",
+		"title": "Rangoli",
+		"subtitle": "Outside New Lecture Hall"
+	},
+	{
+		"day": 605,
+		"time": "6 Apr\n12:00 pm",
+		"title": "Face Painting",
+		"subtitle": "New Lecture Halls 1-2 (NLH 1 & 2)"
+	},
+	{
+		"day": 606,
+		"time": "6 Apr\n1:00 pm",
+		"title": "Best of Folk",
+		"subtitle": "MP Hall" 
+	},
+	{
+		"day": 607,
+		"time": "6 Apr\n1:30 pm",
+		"title": "Final Year Day",
+		"subtitle": "MP Hall"
+	},
+	{
+		"day": 608,
+		"time": "6 Apr\n5:00 pm",
+		"title": "Shiv Shankar Sharma Concert",
+		"subtitle": "MP Hall"
+	},
+	{
+		"day": 609,
+		"time": "6 Apr\n6:00 pm",
+		"title": "Rocktave",
+		"subtitle": "Gymkhana Ground"
+	},
+	{
+		"day": 701,
+		"time": "7 Apr\n8:00 am",
+		"title": "Voice of Culrav Round 3 Rehearsal",
+		"subtitle": "Seminar Hall" 
+	},
+	{
+		"day": 702,
+		"time": "7 Apr\n9:00 am",
+		"title": "Lit Quiz",
+		"subtitle": "FN 1" 
+	},
+	{
+		"day": 703,
+		"time": "7 Apr\n10:00 am",
+		"title": "Nautanki",
+		"subtitle": "MP Hall" 
+	},
+	{
+		"day": 704,
+		"time": "7 Apr\n10:30 am",
+		"title": "Solo + Duet Dance (Western)",
+		"subtitle": "Seminar Hall" 
+	},
+	{
+		"day": 705,
+		"time": "7 Apr\n12:00 pm",
+		"title": "Clay Modelling",
+		"subtitle": "New Lecture Hall 1 & 2 (NLH 1 & 2)" 
+	},
+	{
+		"day": 706,
+		"time": "7 Apr\n1:00 pm",
+		"title": "Chakravyuh Finals",
+		"subtitle": "LH 1,2,3,4,5,6" 
+	},
+	{
+		"day": 707,
+		"time": "7 Apr\n2:00 pm",
+		"title": "Saath Sur",
+		"subtitle": "MP Hall" 
+	},
+	{
+		"day": 708,
+		"time": "7 Apr\n3:00 pm",
+		"title": "Card Making",
+		"subtitle": "New Lecture Hall 1 & 2 (NLH 1 & 2)" 
+	},
+	{
+		"day": 709,
+		"time": "7 Apr\n3:00 pm",
+		"title": "Street Dance",
+		"subtitle": "Basketball Court" 
+	},
+	{
+		"day": 710,
+		"time": "7 Apr\n6:00 pm",
+		"title": "Street Studio",
+		"subtitle": "Seminar Hall" 
+	},
+	{
+		"day": 711,
+		"time": "7 Apr\n6:00 pm",
+		"title": "Glamstreet",
+		"subtitle": "MP Hall" 
+	},
+	{
+		"day": 801,
+		"time": "8 Apr\n9:00 am",
+		"title": "Voice of Culrav Finals",
+		"subtitle": "MP Hall"
+	},
+	{
+		"day": 802,
+		"time": "8 Apr\n10:00 am",
+		"title": "Q-tiyapa",
+		"subtitle": "Outside MP Hall"
+	},
+	{
+		"day": 803,
+		"time": "8 Apr\n3:00 pm",
+		"title": "Workshop (Anupam Kher)",
+		"subtitle": "MP Hall"
+	},
+	{
+		"day": 804,
+		"time": "8 Apr\n6:00 pm",
+		"title": "Closing Ceremony",
+		"subtitle": "MP Hall"
+	}	
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"RangSaazi":[
+	{
+		"event": "Clay Modelling",
+		"eventID": "0601", 
+		"description": "'Every now and then one paints a picture that seems to have opened a door and serves as a stepping stone to other things' - Pablo Picasso
+		
+		It's time to convey your thoughts through the clay and give us a sneak peek of the world of your imagination.",
+		"format": "The event consists of only one round. All the necessary material used for making posters will be provided at the spot. Theme will be provided on the spot",
+		"rules": [
+			"1. This is a Team event",
+			"2. Team comprises of maximum 4 people",
+			"3. Participants will be provided the clay",
+			"4. Time allotted for the event is 90 minutes"
+		]
+	},
+	{
+		"event": "Rangoli",
+		"eventID": "0602", 
+		"description": "Play around with colours and create a visual treat. Rangoli are the most obvious part of any celebration they are a precursor to celebration and good times to come. So be a part of the Rangoli competition and create your own designs.",
+		"format": "The event consists of only one round. All the necessary material used for making Rangoli will be provided at the spot. Theme will be provided on the spot.",
+		"rules": [
+			"1. This is a Team event",
+			"2. Team comprises of Maximum 3 people",
+			"3. Participants are required to use a 1.5x1.5 sq. meter area",
+			"4. Time allotted for the event is 90 minutes"
+		]
+	},
+	{
+		"event": "Face Painting",
+		"eventID": "0603", 
+		"description": "'A mask tells us more than a face.' - Oscar Wilde Bros.
+			
+			This is quite simple, swap your canvas with your friend's Face. Whether you make a masterpiece or funny clown out of your buddy's face is totally upto you. If you are smart enough this can be a perfect opportunity for a variety of interesting purposes.",
+		"format": "The event consists of only one round. All the necessary material used for face painting will be provided at the spot. Theme will be provided on the spot.",
+		"rules": [
+			"1. This is a Team event",
+			"2. Team comprises of Maximum 2 people",			
+			"3. Time allotted for the event is 60 minutes"
+		]    
+	},	
+	{
+		"event": "Scoops",
+		"eventID": "0604", 
+		"description": "'Painting is easy when you don't know how, but very difficult when you do' - Edgar Degas
+			
+			It's time to show your mastery on 3 different styles of drawing; pencil, crayons and water colours. Show off your artistic skills and creativity.",
+		"format": "The event consists of only one round. All the necessary material used for 3 scoops will be provided at the spot. 3 separate A3 sheets wil be provided for all three types. Theme will be provided on the spot",
+		"rules": [
+			"1. This is a Team event",
+			"2. Team comprises of Maximum 4 people",
+			"3. Time allotted for the event is 90 minutes",
+			"4. Teams have to make 3 posters which should describe the theme using pencil, crayon and water colours"
+		]
+	},
+	{
+		"event": "Card Making",
+		"eventID": "0605", 
+		"description": "Its time to show off your crafty side and make a wonderful card to display your craftsmenship",
+		"format": "The event consists of only one round. All the necessary material used for card making will be provided at the spot. Separate handmade sheets will be provided on the spot. Theme will be provided on the spot",
+		"rules": [
+			"1. This is a Team event",
+			"2. Team comprises of Maximum 4 people",
+			"3. Time allotted for the event is 90 minutes",
+			"4. Teams have to make a handmade creative card"
+		]
+	},
+	{
+		"event": "Scrap Art",
+		"eventID": "0605", 
+		"description": "'The artist is the receptacle of emotions that comes from all over the place - from a scrap of paper, from the sky or from the earth'
+    Explore your innovation, bring out your creative side and magically bring life to the design you can come up with the scraps...",
+		"format": "The teams will collect scraps from all over the college. They can use anything they want to make a model or a painting.",
+		"rules": [
+			"1. It is a team event",
+			"2. The team can comprise of maximum 4 members",
+			"3. The time for this event will be 90 minutes"
+		]
+	}
+	]
+}

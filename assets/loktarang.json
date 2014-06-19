@@ -1,0 +1,69 @@
+{
+	"LokTarang":[
+	{
+		"eventID": "0101",
+		"event": "Rangshree",
+		"description": "We present you with an opportunity to showcase the richness of Indian culture. There is invincible power in this great tradition. Classical dance serves as the hidden language of the soul. Dance to rhythm of India with a burst of verve and vitality. Embrace the elegance and the enigma of the Indian Classical dance. Relive tradition through the classical arts and reflect the 'now' through contemporary creations.",
+		"format": [
+			"The events has two formats\n",
+			"1. Indian Classical Dance Solo\n",
+			"2. Indian classical dance Duet\n",
+			"The songs chosen should be purely classical\n",
+			"Bollywood songs are not allowed\n",
+			"Time Limit - 5 mins\n",
+			"The use of props is allowed\n"
+		],
+		"judging": [
+		""
+		]
+	},
+	{
+		"eventID": "0102",
+		"event": "Nritya Manthan",
+		"description": "Distinctive Indian style is more about the diversity of styles than anything more unifying. One of the most eye catching and awaited events of the fest full of energy and vitality, Nritya Manthan adds vibrant colours to the festival. Explore the joy and diversity of the Indian folk dances and rejuvenate them with skill and imagination.",
+		"format": [
+			"Team size: minimum 6, maximum 14 but on stage only 12 members are allowed\n",
+			"The team shall perform on one or many of the dance forms mentioned below\n",
+			"Dance forms of the same state must be chosen\n",
+			"Any number of dance forms can be chosen as the team desires\n",
+			"Each team has to submit their team name along with the list of dance forms they are performing:\n\n",
+			"Andhra Pradesh - Kolattam, Kuchipudi\n\n",			
+			"Arunachal Pradesh - Bardo Chham\n\n",			
+			"Assam - Bihu dance, humur Nach of Tea Garden workers, Bagurumba of Bodo Community, Ali Ai Ligang of Mishing Community\n\n",			
+			"Chhattisgarh - Panthi, Raut Nacha\n\n",			
+			"Gujarat - Garba, Padhar, Raas, Tippani Dance\n\n",			
+			"Himachal Pradesh - Kinnauri Nati, Namgen\n\n",			
+			"Karnataka - Yakshagana, Bayalata, Dollu Kunitha, Veeragaase Dance\n\n",			
+			"Kashmir - Dumbal\n\n",			
+			"Lakshadweep - Lava\n\n",						
+			"Madhya Pradesh - Tertali, Charkula, Jawara, Matki Dance, Phupati Dance, Grida Dance, Maanch, Gaur Maria Dance\n\n",
+			"Maharashtra - Pavri Nach, Lavani, Koli, Dindi, Tamasha\n\n",			
+			"Manipur - Thang Ta, Dhol cholom\n\n",			
+			"Mizoram - Cheraw Dance\n\n",			
+			"Nagaland - Chang Lo or Sua Lua\n\n",			
+			"Odisha - Ghumura Dance, Ruk Mar Nacha (and Chhau dance), Goti Pua, Nacni, Odissi, Western Odisha, Baagh Naach or Tiger Dance, Dalkhai, Dhap, Ghumra, Karma Naach, Keisabadi\n\n",			
+			"Puducherry - Garadi\n\n",			
+			"Punjab - Bhangra, Giddha, Malwai Giddha, Jhumar, Karthi, Kikkli, Sammi, Dandass, Ludi, Jindua\n\n",			
+			"Rajasthan - Ghoomar, Kalbelia, Bhavai, Tera tali, Chirami, Gair\n\n",			
+			"Sikkim - Singhi Chham\n\n",			
+			"Tamil Nadu - Bharatanatyam, Kamandi or Kaman Pandigai, Devarattam, Kummi, Kolattam, Karagattam or Karagam, Mayil Attam or Peacock dance, Paampu attam or Snake Dance, Oyilattam, Puliyattam, Poikal Kudirai Attam, Bommalattam, Theru Koothu\n\n",			
+			"Tripura - Hojagiri\n\n",			
+			"West Bengal - Gambhira, Kalikapatadi, Nacni, Alkap, Domni\n\n",			
+			"If team wants to perform a form other than those mentioned above, they are required to contact the coordinators well in advance\n",
+			"Time Limit: 7-10 minutes\n",
+			"New songs and new choreography should be included in all dances. In case of any copying, from the previous year's performances the team will be considered disqualified.\n",
+			"In case of conflicts, decision of the judges shall be final\n"
+		],
+		"judging":[
+			"Judging would be based on following criteria\n",
+			"Choreography\n",
+			"Authenticity (costumes, props, stylistic elements, music etc.)\n",
+			"Energy\n",
+			"Stage coverage\n",
+			"Synchronization\n",
+			"Overall impact\n",
+			"Costumes and props would be included in the judging criteria\n"
+		]
+	}
+	]
+}

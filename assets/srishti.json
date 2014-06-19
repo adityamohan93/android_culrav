@@ -1,0 +1,45 @@
+{
+	"Srishti":[
+	{
+		"eventID": "0901",
+		"event": "Chakravyuh",
+		"description": "This event is a quest for all Abhimanyus in Kalyug. Just like Abhimanyu had to go through seven rounds, the same pattern is followed. The participants will be going through seven different interesting rounds. We don't expect you to have expertise in Hindi but a slight interest and memory in Hindi will do.",
+		"rounds":[			
+			"1. Written Round: Questionnaire filling round",
+			"2. Surprise Round: Let it remain a surprise",
+			"3. Sansani: This is one of the most entertaining rounds of 'Chakravyuh'. On the spot topic will be given and the participants are required to produce a live news coverage on the given topic.",
+			"4. Film Sameeksha: All the participants will be given the names of five different movies (which are expected to be seen by all) and a review would have to be written by them on any one of all the five options.",
+			"5. Prem Patra Lekhan: Well guys, love letter writing has always been an interesting and exciting event. So this event will test how efficiently you express your deep inner feelings for someone special on a piece of paper. So all those who are looking for such an opportunity, we provide a gleam of hope to you.",
+			"6. Interview Round: All the participants will be interviewed on an individual basis. The pattern would be completely random. We may ask you to paraphrase a poem or even raise questions on the originality of the entries submitted by you in previous rounds like Film Sameeksha, Prem Patra Lekhan etc. So, we request you all not to copy from any source throughout the previous rounds."
+		]
+	},
+	{
+		"eventID" : "0902",
+		"event": "Goonj",	
+		"description" : "If you think, you have a charismatic voice like that of Hitler, here you go! We provide you the right platform to spread the Goonj of your voice through the various rounds of this trademark event of Srishti.",
+		"rounds": [
+			"1. Vaad-Vivaad: As is obvious from the name, it is a debate competition. Topics will be given at least two days prior to the event and we'll ask you to prepare either in for or against the topic.",
+			"2. Aashubhashan: This is the extempore round. On the spot topic will be given and a maximum of five minutes are allotted to express your views.",
+			"3. Charcha-e-Khas: Ever dreamt of participating in a parliamentary debate session! We present you the opportunity to be a part of such an environment. Topics will be given at least three days prior to the event."
+		]
+	},
+	{
+		"eventID": "0903",
+		"event":"Shabd",		
+		"description": "Ever got goose bumps after reading a poem by Ramdhari Singh Dinkar or felt the rhythm of nature after reading Sumitranandan Pant! Well, now is the time to make feel others through your own poetry, your own Shabds. First prize winner of this event will be given the golden chance to recite his poem with few of the eminent poets of country in the event Kavyasandhya!",
+		"rounds":[
+			"1. Poem Writing: It is an elimination round. A phrase/line will be given or a picture will be shown and the participants are required to write a poem on it. The poem should be an original work of the participant and any copying will lead to disqualification.",
+			"2. Kavyanjali: This event explores your poem writing skills as well as your oratory skills. Based on the linguistic as well as recitation skill the marks will be provided. The participants are required to be prepared with their original work and any sort of copying will lead to disqualification."
+		]
+	},	
+	{
+		"eventID": "0904",
+		"event":"Rachana",		
+		"description": "This event makes you free from boundaries of prose and poetry. Anything either it's a story or an essay or poem,anything that comes into your mind, just write it and maybe your creation brings you Some prize money and goodies with a lot of fun intact.",
+		"rounds":[
+			"1. It is an elimination round. You have to submit your entries in hard copy or soft copy.Just write your thoughts and submit it. The participants are required to be prepared with their original work and any sort of copying will lead to disqualification",
+			"2. In this last and final round a topic will be given you on the spot and you will have to write down your creation."			
+		]
+	}
+	]
+}
