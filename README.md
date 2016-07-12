@@ -1,6 +1,6 @@
-android_culrav
-==============
+#Culrav 2014
 
-Culrav 2k14
+Play store link: https://play.google.com/store/apps/details?id=mnnit.vinayakAj.culrav2k14
 
-The android app made for a cultural fest with push notification capabilities and 3-D graphics elements.
+Source code for Android app build for Culrav 2014, MNNIT Allahabad's cultural fest with push notification capabilities and 3-D graphics elements.
+
